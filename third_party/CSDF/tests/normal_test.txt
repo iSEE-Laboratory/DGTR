@@ -1,0 +1,3689 @@
+data/mug/4b8b10d03552e0891898dfa8eb8eefff/coacd/decomposed.obj
+count: 1680
+total: 1680
+data/mug/6faf1f04bde838e477f883dde7397db2/coacd/decomposed.obj
+count: 3500
+total: 3500
+data/mug/71995893d717598c9de7b195ccfa970/coacd/decomposed.obj
+count: 1852
+total: 1852
+data/mug/4815b8a6406494662a96924bce6ef687/coacd/decomposed.obj
+count: 2908
+total: 2908
+data/mug/639a1f7d09d23ea37d70172a29ade99a/coacd/decomposed.obj
+count: 1581
+total: 1582
+dif 1
+data/mug/83827973c79ca7631c9ec1e03e401f54/coacd/decomposed.obj
+count: 2008
+total: 2008
+data/mug/d75af64aa166c24eacbe2257d0988c9c/coacd/decomposed.obj
+count: 4218
+total: 4218
+data/mug/2037531c43448c3016329cbc378d2a2/coacd/decomposed.obj
+count: 2016
+total: 2016
+data/mug/85a2511c375b5b32f72755048bac3f96/coacd/decomposed.obj
+count: 2970
+total: 2970
+data/mug/8012f52dd0a4d2f718a93a45bf780820/coacd/decomposed.obj
+count: 2732
+total: 2732
+data/mug/91f90c3a50410c0dc27effd6fd6b7eb0/coacd/decomposed.obj
+count: 2064
+total: 2064
+data/mug/b7841572364fd9ce1249ffc39a0c3c0b/coacd/decomposed.obj
+count: 2884
+total: 2884
+data/mug/37f56901a07da69dac6b8e58caf61f95/coacd/decomposed.obj
+count: 3180
+total: 3180
+data/mug/71ca4fc9c8c29fa8d5abaf84513415a2/coacd/decomposed.obj
+count: 1734
+total: 1734
+data/mug/8aed972ea2b4a9019c3814eae0b8d399/coacd/decomposed.obj
+count: 1800
+total: 1800
+data/mug/9196f53a0d4be2806ffeedd41ba624d6/coacd/decomposed.obj
+count: 5510
+total: 5510
+data/mug/5fe74baba21bba7ca4eec1b19b3a18f8/coacd/decomposed.obj
+count: 2608
+total: 2608
+data/mug/46955fddcc83a50f79b586547e543694/coacd/decomposed.obj
+count: 2370
+total: 2370
+data/mug/10c2b3eac377b9084b3c42e318f3affc/coacd/decomposed.obj
+count: 2608
+total: 2608
+data/mug/127944b6dabee1c9e20e92c5b8147e4a/coacd/decomposed.obj
+count: 1836
+total: 1836
+data/mug/df026976dc03197213ac44947b92716e/coacd/decomposed.obj
+count: 1872
+total: 1872
+data/mug/bed29baf625ce9145b68309557f3a78c/coacd/decomposed.obj
+count: 2032
+total: 2032
+data/mug/1305b9266d38eb4d9f818dd0aa1a251/coacd/decomposed.obj
+count: 2172
+total: 2172
+data/mug/e9bd4ee553eb35c1d5ccc40b510e4bd/coacd/decomposed.obj
+count: 2336
+total: 2336
+data/mug/35ce7ede92198be2b759f7fb0032e59/coacd/decomposed.obj
+count: 1865
+total: 1866
+dif 1
+data/mug/141f1db25095b16dcfb3760e4293e310/coacd/decomposed.obj
+count: 1880
+total: 1880
+data/mug/c0c130c04edabc657c2b66248f91b3d8/coacd/decomposed.obj
+count: 1908
+total: 1908
+data/mug/546648204a20b712dfb0e477a80dcc95/coacd/decomposed.obj
+count: 4016
+total: 4016
+data/mug/cc5b14ef71e87e9165ba97214ebde03/coacd/decomposed.obj
+count: 2202
+total: 2202
+data/mug/336122c3105440d193e42e2720468bf0/coacd/decomposed.obj
+count: 1802
+total: 1802
+data/mug/b18bf84bcd457ffbc2868ebdda32b945/coacd/decomposed.obj
+count: 5246
+total: 5246
+data/mug/1a97f3c83016abca21d0de04f408950f/coacd/decomposed.obj
+count: 2660
+total: 2660
+data/mug/64a9d9f6774973ebc598d38a6a69ad2/coacd/decomposed.obj
+count: 2864
+total: 2864
+data/mug/a6d9f9ae39728831808951ff5fb582ac/coacd/decomposed.obj
+count: 3000
+total: 3000
+data/mug/9737c77d3263062b8ca7a0a01bcd55b6/coacd/decomposed.obj
+count: 3970
+total: 3970
+data/mug/99eaa69cf6fe8811dec712af445786fe/coacd/decomposed.obj
+count: 3150
+total: 3150
+data/mug/f23a544c04e2f5ccb50d0c6a0c254040/coacd/decomposed.obj
+count: 2810
+total: 2810
+data/mug/a637500654ca8d16c97cfc3e8a6b1d16/coacd/decomposed.obj
+count: 4806
+total: 4806
+data/mug/6500ccc65e210b14d829190312080ea3/coacd/decomposed.obj
+count: 5226
+total: 5226
+data/mug/fd1f9e8add1fcbd123c841f9d5051936/coacd/decomposed.obj
+count: 4214
+total: 4214
+data/mug/6e884701bfddd1f71e1138649f4c219/coacd/decomposed.obj
+count: 5188
+total: 5188
+data/mug/e71102b6da1d63f3a363b55cbd344baa/coacd/decomposed.obj
+count: 1440
+total: 1440
+data/mug/44f9c4e1ea3532b8d7b20fded0142d7a/coacd/decomposed.obj
+count: 3096
+total: 3096
+data/mug/b88bcf33f25c6cb15b4f129f868dedb/coacd/decomposed.obj
+count: 1564
+total: 1564
+data/mug/642eb7c42ebedabd223d193f5a188983/coacd/decomposed.obj
+count: 4271
+total: 4272
+dif 1
+data/mug/b98fa11a567f644344b25d683fe71de/coacd/decomposed.obj
+count: 6615
+total: 6616
+dif 1
+data/mug/d46b98f63a017578ea456f4bbbc96af9/coacd/decomposed.obj
+count: 2742
+total: 2742
+data/mug/c60f62684618cb52a4136492f17b9a59/coacd/decomposed.obj
+count: 2782
+total: 2782
+data/mug/2997f21fa426e18a6ab1a25d0e8f3590/coacd/decomposed.obj
+count: 3564
+total: 3564
+data/mug/414772162ef70ec29109ad7f9c200d62/coacd/decomposed.obj
+count: 3376
+total: 3376
+data/mug/73b8b6456221f4ea20d3c05c08e26f/coacd/decomposed.obj
+count: 1557
+total: 1558
+dif 1
+data/mug/b4ae56d6638d5338de671f28c83d2dcb/coacd/decomposed.obj
+count: 1498
+total: 1498
+data/mug/5d72df6bc7e93e6dd0cd466c08863ebd/coacd/decomposed.obj
+count: 1536
+total: 1536
+data/mug/c2e411ed6061a25ef06800d5696e457f/coacd/decomposed.obj
+count: 2136
+total: 2136
+data/mug/e94e46bc5833f2f5e57b873e4f3ef3a4/coacd/decomposed.obj
+count: 1941
+total: 1942
+dif 1
+data/mug/a1d293f5cc20d01ad7f470ee20dce9e0/coacd/decomposed.obj
+count: 4132
+total: 4132
+data/mug/39361b14ba19303ee42cfae782879837/coacd/decomposed.obj
+count: 1840
+total: 1840
+data/mug/5b0c679eb8a2156c4314179664d18101/coacd/decomposed.obj
+count: 3242
+total: 3242
+data/mug/e9499e4a9f632725d6e865157050a80e/coacd/decomposed.obj
+count: 1962
+total: 1962
+data/mug/8b1dca1414ba88cb91986c63a4d7a99a/coacd/decomposed.obj
+count: 4602
+total: 4602
+data/mug/6d2657c640e97c4dd4c0c1a5a5d9a6b8/coacd/decomposed.obj
+count: 2564
+total: 2564
+data/mug/d38295b8d83e8cdec712af445786fe/coacd/decomposed.obj
+count: 2914
+total: 2914
+data/mug/2852b888abae54b0e3523e99fd841f4/coacd/decomposed.obj
+count: 1999
+total: 2000
+dif 1
+data/mug/5ef0c4f8c0884a24762241154bf230ce/coacd/decomposed.obj
+count: 3228
+total: 3228
+data/mug/d7ba704184d424dfd56d9106430c3fe/coacd/decomposed.obj
+count: 6178
+total: 6178
+data/mug/3d3e993f7baa4d7ef1ff24a8b1564a36/coacd/decomposed.obj
+count: 3620
+total: 3620
+data/mug/b811555ccf5ef6c4948fa2daa427fe1f/coacd/decomposed.obj
+count: 2398
+total: 2398
+data/mug/ec846432f3ebedf0a6f32a8797e3b9e9/coacd/decomposed.obj
+count: 3306
+total: 3306
+data/mug/79e673336e836d1333becb3a9550cbb1/coacd/decomposed.obj
+count: 3942
+total: 3942
+data/mug/24b17537bce40695b3207096ecd79542/coacd/decomposed.obj
+count: 2806
+total: 2806
+data/mug/1bc5d303ff4d6e7e1113901b72a68e7c/coacd/decomposed.obj
+count: 3118
+total: 3118
+data/mug/b9f9f5b48ab1153626829c11d9aba173/coacd/decomposed.obj
+count: 3376
+total: 3376
+data/mug/9c930a8a3411f069e7f67f334aa9295c/coacd/decomposed.obj
+count: 4206
+total: 4206
+data/mug/8b780e521c906eaf95a4f7ae0be930ac/coacd/decomposed.obj
+count: 2034
+total: 2034
+data/mug/c39fb75015184c2a0c7f097b1a1f7a5/coacd/decomposed.obj
+count: 7626
+total: 7626
+data/mug/4f9f31db3c3873692a6f53dd95fd4468/coacd/decomposed.obj
+count: 2194
+total: 2194
+data/mug/6661c0b9b9b8450c4ee002d643e7b29e/coacd/decomposed.obj
+count: 7618
+total: 7618
+data/mug/1eaf8db2dd2b710c7d5b1b70ae595e60/coacd/decomposed.obj
+count: 2168
+total: 2168
+data/mug/962883677a586bd84a60c1a189046dd1/coacd/decomposed.obj
+count: 1742
+total: 1742
+data/mug/b815d7e084a5a75b8d543d7713b96a41/coacd/decomposed.obj
+count: 5206
+total: 5206
+data/mug/bcb6be8f0ff4a51872e526c4f21dfca4/coacd/decomposed.obj
+count: 1564
+total: 1564
+data/mug/89bd0dff1b386ebed6b30d74fff98ffd/coacd/decomposed.obj
+count: 4234
+total: 4234
+data/mug/187859d3c3a2fd23f54e1b6f41fdd78a/coacd/decomposed.obj
+count: 2062
+total: 2062
+data/mug/6c5ec193434326fd6fa82390eb12174f/coacd/decomposed.obj
+count: 2942
+total: 2942
+data/mug/9426e7aa67c83a4c3b51ab46b2f98f30/coacd/decomposed.obj
+count: 3035
+total: 3036
+dif 1
+data/mug/5c48d471200d2bf16e8a121e6886e18d/coacd/decomposed.obj
+count: 1146
+total: 1146
+data/mug/6dd59cc1130a426571215a0b56898e5e/coacd/decomposed.obj
+count: 5290
+total: 5290
+data/mug/1a1c0a8d4bad82169f0594e65f756cf5/coacd/decomposed.obj
+count: 1978
+total: 1978
+data/mug/345d3e7252156db8d44ee24d6b5498e1/coacd/decomposed.obj
+count: 5229
+total: 5230
+dif 1
+data/mug/b6f30c63c946c286cf6897d8875cfd5e/coacd/decomposed.obj
+count: 1884
+total: 1884
+data/mug/61c10dccfa8e508e2d66cbf6a91063/coacd/decomposed.obj
+count: 5540
+total: 5540
+data/mug/9af98540f45411467246665d3d3724c/coacd/decomposed.obj
+count: 1650
+total: 1650
+data/mug/f626192a5930d6c712f0124e8fa3930b/coacd/decomposed.obj
+count: 4300
+total: 4300
+data/mug/9961ccbafd59cb03fe36eb2ab5fa00e0/coacd/decomposed.obj
+count: 2022
+total: 2022
+data/mug/43e1cabc5dd2fa91fffc97a61124b1a9/coacd/decomposed.obj
+count: 2286
+total: 2286
+data/mug/c6b24bf0a011b100d536be1f5e11c560/coacd/decomposed.obj
+count: 2408
+total: 2408
+data/mug/9ff8400080c77feac2ad6fd1941624c3/coacd/decomposed.obj
+count: 5998
+total: 5998
+data/mug/5310945bb21d74a41fabf3cbd0fc77bc/coacd/decomposed.obj
+count: 5812
+total: 5812
+data/mug/f1e439307b834015770a0ff1161fa15a/coacd/decomposed.obj
+count: 5534
+total: 5534
+data/mug/52273f4b17505e898ef19a48ac4fcfdf/coacd/decomposed.obj
+count: 4024
+total: 4024
+data/mug/9d8c711750a73b06ad1d789f3b2120d0/coacd/decomposed.obj
+count: 1518
+total: 1518
+data/mug/e363fa24c824d20ca363b55cbd344baa/coacd/decomposed.obj
+count: 2462
+total: 2462
+data/mug/8f550770386a6cf82f23d8349a133d2b/coacd/decomposed.obj
+count: 4354
+total: 4354
+data/mug/f99e19b8c4a729353deb88581ea8417a/coacd/decomposed.obj
+count: 2144
+total: 2144
+data/mug/f1c5b9bb744afd96d6e1954365b10b52/coacd/decomposed.obj
+count: 1798
+total: 1798
+data/mug/6aec84952a5ffcf33f60d03e1cb068dc/coacd/decomposed.obj
+count: 2024
+total: 2024
+data/mug/a8f7a0edd3edc3299e54b4084dc33544/coacd/decomposed.obj
+count: 1648
+total: 1648
+data/mug/f7d776fd68b126f23b67070c4a034f08/coacd/decomposed.obj
+count: 2038
+total: 2038
+data/mug/ca198dc3f7dc0cacec6338171298c66b/coacd/decomposed.obj
+count: 3722
+total: 3722
+data/mug/3d1754b7cb46c0ce5c8081810641ef6/coacd/decomposed.obj
+count: 2246
+total: 2246
+data/mug/6c379385bf0a23ffdec712af445786fe/coacd/decomposed.obj
+count: 2904
+total: 2904
+data/mug/4b7888feea81219ab5f4a9188bfa0ef6/coacd/decomposed.obj
+count: 1866
+total: 1866
+data/mug/8f6c86feaa74698d5c91ee20ade72edc/coacd/decomposed.obj
+count: 2596
+total: 2596
+data/mug/d32cd77c6630b77de47c0353c18d58e/coacd/decomposed.obj
+count: 2014
+total: 2014
+data/mug/ea95f7b57ff1573b9469314c979caef4/coacd/decomposed.obj
+count: 1818
+total: 1818
+data/mug/48e260a614c0fd4434a8988fdcee4fde/coacd/decomposed.obj
+count: 2155
+total: 2156
+dif 1
+data/mug/c7f8d39c406fee941050b055aafa6fb8/coacd/decomposed.obj
+count: 1990
+total: 1990
+data/mug/dcec634f18e12427c2c72e575af174cd/coacd/decomposed.obj
+count: 1552
+total: 1552
+data/mug/275729fcdc9bf1488afafc80c93c27a9/coacd/decomposed.obj
+count: 1480
+total: 1480
+data/mug/eecb13f61a93b4048f58d8b19de93f99/coacd/decomposed.obj
+count: 3784
+total: 3784
+data/mug/c6bc2c9770a59b5ddd195661813efe58/coacd/decomposed.obj
+count: 3310
+total: 3310
+data/mug/928a383f79698c3fb6d9bc28c8d8a2c4/coacd/decomposed.obj
+count: 1710
+total: 1710
+data/mug/1dd8290a154f4b1534a8988fdcee4fde/coacd/decomposed.obj
+count: 5496
+total: 5496
+data/mug/a0c78f254b037f88933dc172307a6bb9/coacd/decomposed.obj
+count: 2162
+total: 2162
+data/mug/1c9f9e25c654cbca3c71bf3f4dd78475/coacd/decomposed.obj
+count: 6164
+total: 6164
+data/mug/ea127b5b9ba0696967699ff4ba91a25/coacd/decomposed.obj
+count: 7836
+total: 7836
+data/mug/1038e4eac0e18dcce02ae6d2a21d494a/coacd/decomposed.obj
+count: 3278
+total: 3278
+data/mug/403fb4eb4fc6235adf0c7dbe7f8f4c8e/coacd/decomposed.obj
+count: 2084
+total: 2084
+data/mug/b7e705de46ebdcc14af54ba5738cb1c5/coacd/decomposed.obj
+count: 2354
+total: 2354
+data/mug/f3a7f8198cc50c225f5e789acd4d1122/coacd/decomposed.obj
+count: 2910
+total: 2910
+data/mug/4d9764afa3fbeb1b6c69dceb67157a66/coacd/decomposed.obj
+count: 2712
+total: 2712
+data/mug/bf2b5e941b43d030138af902bc222a59/coacd/decomposed.obj
+count: 5452
+total: 5452
+data/mug/7a8ea24474846c5c2f23d8349a133d2b/coacd/decomposed.obj
+count: 2582
+total: 2582
+data/mug/c2eacc521dd65bf7a1c742bb4ffef210/coacd/decomposed.obj
+count: 2858
+total: 2858
+data/mug/e16a895052da87277f58c33b328479f4/coacd/decomposed.obj
+count: 2368
+total: 2368
+data/mug/633379db14d4d2b287dd60af81c93a3c/coacd/decomposed.obj
+count: 1944
+total: 1944
+data/mug/599e604a8265cc0a98765d8aa3638e70/coacd/decomposed.obj
+count: 4060
+total: 4060
+data/mug/1be6b2c84cdab826c043c2d07bb83fc8/coacd/decomposed.obj
+count: 2914
+total: 2914
+data/mug/5582a89be131867846ebf4f1147c3f0f/coacd/decomposed.obj
+count: 3086
+total: 3086
+data/mug/3143a4accdc23349cac584186c95ce9b/coacd/decomposed.obj
+count: 1704
+total: 1704
+data/mug/a3cd44bbd3ba5b019a4cbf5d3b79df06/coacd/decomposed.obj
+count: 2527
+total: 2528
+dif 1
+data/mug/43f94ba24d2f075c4d32a65fb7bf4ebc/coacd/decomposed.obj
+count: 1410
+total: 1410
+data/mug/e984fd7e97c2be347eaeab1f0c9120b7/coacd/decomposed.obj
+count: 4586
+total: 4586
+data/mug/10f6e09036350e92b3f21f1137c3c347/coacd/decomposed.obj
+count: 1884
+total: 1884
+data/mug/159e56c18906830278d8f8c02c47cde0/coacd/decomposed.obj
+count: 1929
+total: 1930
+dif 1
+data/mug/bea77759a3e5f9037ae0031c221d81a4/coacd/decomposed.obj
+count: 1896
+total: 1896
+data/mug/1ae1ba5dfb2a085247df6165146d5bbd/coacd/decomposed.obj
+count: 5673
+total: 5674
+dif 1
+data/mug/d309d5f8038df4121198791a5b8655c/coacd/decomposed.obj
+count: 6122
+total: 6122
+data/mug/ea33ad442b032208d778b73d04298f62/coacd/decomposed.obj
+count: 2476
+total: 2476
+data/mug/3a7439cfaa9af51faf1af397e14a566d/coacd/decomposed.obj
+count: 2994
+total: 2994
+data/mug/2d10421716b16580e45ef4135c266a12/coacd/decomposed.obj
+count: 1174
+total: 1174
+data/mug/387b695db51190d3be276203d0b1a33f/coacd/decomposed.obj
+count: 1564
+total: 1564
+data/mug/c7ddd93b15e30faae180a52fd2be32/coacd/decomposed.obj
+count: 1816
+total: 1816
+data/mug/fad118b32085f3f2c2c72e575af174cd/coacd/decomposed.obj
+count: 1756
+total: 1756
+data/mug/1f035aa5fc6da0983ecac81e09b15ea9/coacd/decomposed.obj
+count: 5228
+total: 5228
+data/mug/54f2d6a0b431839c99785666a0fe0255/coacd/decomposed.obj
+count: 2400
+total: 2400
+data/mug/7d6baadd51d0703455da767dfc5b748e/coacd/decomposed.obj
+count: 1986
+total: 1986
+data/mug/659192a6ba300f1f4293529704725d98/coacd/decomposed.obj
+count: 5356
+total: 5356
+data/mug/7374ea7fee07f94c86032c4825f3450/coacd/decomposed.obj
+count: 3270
+total: 3270
+data/mug/896f1d494bac0ebcdec712af445786fe/coacd/decomposed.obj
+count: 3140
+total: 3140
+data/mug/62684ad0321b35189a3501eead248b52/coacd/decomposed.obj
+count: 3624
+total: 3624
+data/mug/85d5e7be548357baee0fa456543b8166/coacd/decomposed.obj
+count: 5720
+total: 5720
+data/mug/57f73714cbc425e44ae022a8f6e258a7/coacd/decomposed.obj
+count: 2254
+total: 2254
+data/mug/7d282cc3cedd40c8b5c4f4801d3aada/coacd/decomposed.obj
+count: 3590
+total: 3590
+data/mug/34ae0b61b0d8aaf2d7b20fded0142d7a/coacd/decomposed.obj
+count: 3048
+total: 3048
+data/mug/3c0467f96e26b8c6a93445a1757adf6/coacd/decomposed.obj
+count: 2606
+total: 2606
+data/mug/68f4428c0b38ae0e2469963e6d044dfe/coacd/decomposed.obj
+count: 3102
+total: 3102
+data/mug/c51b79493419eccdc1584fff35347dc6/coacd/decomposed.obj
+count: 6396
+total: 6396
+data/mug/5c7c4cb503a757147dbda56eabff0c47/coacd/decomposed.obj
+count: 4360
+total: 4360
+data/mug/128ecbc10df5b05d96eaf1340564a4de/coacd/decomposed.obj
+count: 4164
+total: 4164
+data/mug/27119d9b2167080ec190cb14324769d/coacd/decomposed.obj
+count: 5586
+total: 5586
+data/mug/15bd6225c209a8e3654b0ce7754570c8/coacd/decomposed.obj
+count: 2788
+total: 2788
+data/mug/3093367916fb5216823323ed0e090a6f/coacd/decomposed.obj
+count: 2926
+total: 2926
+data/mug/1c3fccb84f1eeb97a3d0a41d6c77ec7c/coacd/decomposed.obj
+count: 2164
+total: 2164
+data/mug/b9004dcda66abf95b99d2a3bbaea842a/coacd/decomposed.obj
+count: 2788
+total: 2788
+data/mug/d0a3fdd33c7e1eb040bc4e38b9ba163e/coacd/decomposed.obj
+count: 2790
+total: 2790
+data/mug/83b41d719ea5af3f4dcd1df0d0a62a93/coacd/decomposed.obj
+count: 3249
+total: 3250
+dif 1
+data/mug/f42a9784d165ad2f5e723252788c3d6e/coacd/decomposed.obj
+count: 2314
+total: 2314
+data/mug/daee5cf285b8d210eeb8d422649e5f2b/coacd/decomposed.obj
+count: 1751
+total: 1752
+dif 1
+data/mug/162201dfe14b73f0281365259d1cf342/coacd/decomposed.obj
+count: 4200
+total: 4200
+data/mug/46ed9dad0440c043d33646b0990bb4a/coacd/decomposed.obj
+count: 3322
+total: 3322
+data/mug/32e197b8118b3ff6a4bd4f46ba404890/coacd/decomposed.obj
+count: 2956
+total: 2956
+data/mug/604fcae9d93201d9d7f470ee20dce9e0/coacd/decomposed.obj
+count: 4028
+total: 4028
+data/mug/cf777e14ca2c7a19b4aad3cc5ce7ee8/coacd/decomposed.obj
+count: 2186
+total: 2186
+data/mug/e6dedae946ff5265a95fb60c110b25aa/coacd/decomposed.obj
+count: 2580
+total: 2580
+data/mug/6c04c2eac973936523c841f9d5051936/coacd/decomposed.obj
+count: 2992
+total: 2992
+data/mug/34869e23f9fdee027528ae0782b54aae/coacd/decomposed.obj
+count: 1278
+total: 1278
+data/mug/24651c3767aa5089e19f4cee87249aca/coacd/decomposed.obj
+count: 1582
+total: 1582
+data/mug/8570d9a8d24cb0acbebd3c0c0c70fb03/coacd/decomposed.obj
+count: 3146
+total: 3146
+data/mug/649a51c711dc7f3b32e150233fdd42e9/coacd/decomposed.obj
+count: 5607
+total: 5608
+dif 1
+data/mug/b9be7cfe653740eb7633a2dd89cec754/coacd/decomposed.obj
+count: 4768
+total: 4768
+data/mug/214dbcace712e49de195a69ef7c885a4/coacd/decomposed.obj
+count: 5274
+total: 5274
+data/mug/1ea9ea99ac8ed233bf355ac8109b9988/coacd/decomposed.obj
+count: 2728
+total: 2728
+data/mug/edaf960fb6afdadc4cebc4b5998de5d0/coacd/decomposed.obj
+count: 2178
+total: 2178
+data/mug/17952a204c0a9f526c69dceb67157a66/coacd/decomposed.obj
+count: 5596
+total: 5596
+data/mug/c34718bd10e378186c6c61abcbd83e5a/coacd/decomposed.obj
+count: 3172
+total: 3172
+data/mug/67b9abb424cf22a22d7082a28b056a5/coacd/decomposed.obj
+count: 3272
+total: 3272
+data/mug/9880097f723c98a9bd8c6965c4665b41/coacd/decomposed.obj
+count: 2649
+total: 2650
+dif 1
+data/mug/9fc96d41ec7a66a6a159545213d74ea/coacd/decomposed.obj
+count: 2656
+total: 2656
+data/mug/513c3410e8354e5211c7f3807925346a/coacd/decomposed.obj
+count: 2030
+total: 2030
+data/mug/ff1a44e1c1785d618bca309f2c51966a/coacd/decomposed.obj
+count: 1902
+total: 1902
+data/mug/7223820f07fd6b55e453535335057818/coacd/decomposed.obj
+count: 6290
+total: 6290
+data/mug/92d6394732e6058d4bcbafcc905a9b98/coacd/decomposed.obj
+count: 1900
+total: 1900
+data/mug/645b0e2ef3b95979204df312eabf367f/coacd/decomposed.obj
+count: 1776
+total: 1776
+data/mug/c82b9f1b98f044fc15cf6e5ad80f2da/coacd/decomposed.obj
+count: 1758
+total: 1758
+data/mug/f1866a48c2fc17f85b2ecd212557fda0/coacd/decomposed.obj
+count: 5184
+total: 5184
+data/mug/ef24c302911bcde6ea6ff2182dd34668/coacd/decomposed.obj
+count: 4292
+total: 4292
+data/mug/f09e51579600cfbb88b651d2e4ea0846/coacd/decomposed.obj
+count: 2360
+total: 2360
+data/mug/586e67c53f181dc22adf8abaa25e0215/coacd/decomposed.obj
+count: 2608
+total: 2608
+data/mug/9278005254c8db7e95f577622f465c85/coacd/decomposed.obj
+count: 3408
+total: 3408
+data/mug/b46e89995f4f9cc5161e440f04bd2a2/coacd/decomposed.obj
+count: 3945
+total: 3946
+dif 1
+data/mug/dfa8a3a0c8a552b62bc8a44b22fcb3b9/coacd/decomposed.obj
+count: 4856
+total: 4856
+data/mug/1d18255a04d22794e521eeb8bb14c5b3/coacd/decomposed.obj
+count: 1816
+total: 1816
+data/mug/28f1e7bc572a633cb9946438ed40eeb9/coacd/decomposed.obj
+count: 6809
+total: 6810
+dif 1
+data/bottle/d8b6c270d29c58c55627157b31e16dc2/coacd/decomposed.obj
+count: 2058
+total: 2058
+data/bottle/275b8572dbfabb9d88873c05c27001/coacd/decomposed.obj
+count: 2710
+total: 2710
+data/bottle/20c5dff3b09282035b76194468418a0e/coacd/decomposed.obj
+count: 1164
+total: 1164
+data/bottle/2d912be96504cb8cd5473a45f1da0225/coacd/decomposed.obj
+count: 1240
+total: 1240
+data/bottle/3b0e35ff08f09a85f0d11ae402ef940e/coacd/decomposed.obj
+count: 1016
+total: 1016
+data/bottle/328ba04ff5119c74763cd81c1b401a16/coacd/decomposed.obj
+count: 1790
+total: 1790
+data/bottle/365f8a3cf397adf66e71bbd43f7f5d20/coacd/decomposed.obj
+count: 5949
+total: 5950
+dif 1
+data/bottle/e017cd91e485756aef026123226f5519/coacd/decomposed.obj
+count: 3244
+total: 3244
+data/bottle/fa452996a220dd49257c84a0e95a18b0/coacd/decomposed.obj
+count: 1664
+total: 1664
+data/bottle/c46bfae78beaa4a7988abef1fd117e7/coacd/decomposed.obj
+count: 1432
+total: 1432
+data/bottle/5f369e223697e7d11901008155be15ef/coacd/decomposed.obj
+count: 434
+total: 434
+data/bottle/4c5329ae5fc25ff5b7903bac4a497954/coacd/decomposed.obj
+count: 1456
+total: 1456
+data/bottle/6ebe74793197919e93f2361527e0abe5/coacd/decomposed.obj
+count: 2150
+total: 2150
+data/bottle/e9371d3abbb3bb7265bca0cae1ecfff5/coacd/decomposed.obj
+count: 1158
+total: 1158
+data/bottle/b31ca446cb3e88dda88e473ddd1152a6/coacd/decomposed.obj
+count: 2091
+total: 2092
+dif 1
+data/bottle/b95559b4f2146b6a823177feb9bf5114/coacd/decomposed.obj
+count: 3080
+total: 3080
+data/bottle/57b186ba25a680584289430f919c490c/coacd/decomposed.obj
+count: 4044
+total: 4044
+data/bottle/13544f09512952bbc9273c10871e1c3d/coacd/decomposed.obj
+count: 654
+total: 654
+data/bottle/c1ebc4254a9f43823c0d2e0152e91b5/coacd/decomposed.obj
+count: 1662
+total: 1662
+data/bottle/7a82a497bc4d10511d385f351a1d14c5/coacd/decomposed.obj
+count: 3174
+total: 3174
+data/bottle/4185c4eb651bd7e03c752b66cc923fdb/coacd/decomposed.obj
+count: 376
+total: 376
+data/bottle/33f6ca7ec9d3f1e6940806ade53ef2f/coacd/decomposed.obj
+count: 1190
+total: 1190
+data/bottle/6821f9cc313dfdebe7ef9fff09638f8e/coacd/decomposed.obj
+count: 1378
+total: 1378
+data/bottle/150108e481b52e41bfeb5b5bfc3dfc3b/coacd/decomposed.obj
+count: 5048
+total: 5048
+data/bottle/72a9f3c57e40416f8884a069d9619eaf/coacd/decomposed.obj
+count: 5897
+total: 5898
+dif 1
+data/bottle/9edfe64416a9646e30612f5c0ef21eb8/coacd/decomposed.obj
+count: 4256
+total: 4256
+data/bottle/2c5fd15998b6f8b996716aabcb2fff20/coacd/decomposed.obj
+count: 1316
+total: 1316
+data/bottle/898101350771ff942ae40d06128938a1/coacd/decomposed.obj
+count: 540
+total: 540
+data/bottle/d297d1b0e4f0c244f61150ce90be197a/coacd/decomposed.obj
+count: 2124
+total: 2124
+data/bottle/1ef68777bfdb7d6ba7a07ee616e34cd7/coacd/decomposed.obj
+count: 2954
+total: 2954
+data/bottle/5979870763de5ced4c8b72e8da0e65c5/coacd/decomposed.obj
+count: 2420
+total: 2420
+data/bottle/8f2b8d281413a8bd5b326e4735ab9003/coacd/decomposed.obj
+count: 2222
+total: 2222
+data/bottle/9fe7e6a7bf8ca964efad53eb3f0b36fa/coacd/decomposed.obj
+count: 9532
+total: 9534
+dif 2
+data/bottle/dc192dfce3556031fc0310aa34dddc94/coacd/decomposed.obj
+count: 1412
+total: 1412
+data/bottle/fd0ccd09330865277602de57eab5e08f/coacd/decomposed.obj
+count: 2512
+total: 2512
+data/bottle/74d0244fed5504cdb1d85e3f9755b881/coacd/decomposed.obj
+count: 2682
+total: 2682
+data/bottle/6e57c665a47d7d7730612f5c0ef21eb8/coacd/decomposed.obj
+count: 1488
+total: 1488
+data/bottle/ca210c6696357f98e8ec08b84f068b50/coacd/decomposed.obj
+count: 2072
+total: 2072
+data/bottle/882d477872fd88347df6165146d5bbd/coacd/decomposed.obj
+count: 2456
+total: 2456
+data/bottle/77be452b59bebfd3940806ade53ef2f/coacd/decomposed.obj
+count: 1702
+total: 1702
+data/bottle/5d6b5d1b135b8cf8b7886d94372e3c76/coacd/decomposed.obj
+count: 848
+total: 848
+data/bottle/807ef57d3d9d13eeccf25325b962dc82/coacd/decomposed.obj
+count: 3274
+total: 3274
+data/bottle/656ef8a799ee1c5118431871c8e05789/coacd/decomposed.obj
+count: 1386
+total: 1386
+data/bottle/e824b049f16b29f19ab27ff78a8ea481/coacd/decomposed.obj
+count: 1252
+total: 1252
+data/bottle/e7714b3280fa7f925b2cc658332a8e03/coacd/decomposed.obj
+count: 1020
+total: 1020
+data/bottle/950d6ca1d2b53ce52f71dfd07ef088cf/coacd/decomposed.obj
+count: 2124
+total: 2124
+data/bottle/134c723696216addedee8d59893c8633/coacd/decomposed.obj
+count: 1686
+total: 1686
+data/bottle/1b64b36bf7ddae3d7ad11050da24bb12/coacd/decomposed.obj
+count: 2624
+total: 2624
+data/bottle/d10b549075e8f3812adf8abaa25e0215/coacd/decomposed.obj
+count: 398
+total: 398
+data/bottle/d655a217ad7d8974ce60bdf271ddc452/coacd/decomposed.obj
+count: 1002
+total: 1002
+data/bottle/8be0066e544e11da664b3b9b23ddfcbc/coacd/decomposed.obj
+count: 1048
+total: 1048
+data/bottle/77ad88568cb55237e01d7dc978602402/coacd/decomposed.obj
+count: 5424
+total: 5424
+data/bottle/d44618b5aefe9ecd467ca2ad6571afff/coacd/decomposed.obj
+count: 1498
+total: 1498
+data/bottle/b71afc7791d18eabc573899ac6ab82e4/coacd/decomposed.obj
+count: 4940
+total: 4940
+data/bottle/8458e5a34c67958130f549f12038e49a/coacd/decomposed.obj
+count: 5748
+total: 5748
+data/bottle/91235f7d65aec958ca972daa503b3095/coacd/decomposed.obj
+count: 1684
+total: 1684
+data/bottle/c61edfb672986ee48a9393b5e735dbde/coacd/decomposed.obj
+count: 1838
+total: 1838
+data/bottle/80a3b56c86f906e5f913a7c27a7e15b9/coacd/decomposed.obj
+count: 6382
+total: 6382
+data/bottle/618d55a791b8280cf256a8c3e3396495/coacd/decomposed.obj
+count: 1124
+total: 1124
+data/bottle/aec6aa917d61d1faebe67d9b32c3ddf8/coacd/decomposed.obj
+count: 876
+total: 876
+data/bottle/b8767b71c2216dcad317c475f024f3b8/coacd/decomposed.obj
+count: 2128
+total: 2128
+data/bottle/ea200708a0779090eab2bd7322386ffd/coacd/decomposed.obj
+count: 1784
+total: 1784
+data/bottle/ba4b48d76eb79f7cf54e1b6f41fdd78a/coacd/decomposed.obj
+count: 3731
+total: 3732
+dif 1
+data/bottle/75bf30ec68b8477e7099d25c8e75cf58/coacd/decomposed.obj
+count: 732
+total: 732
+data/bottle/194f4eb1707aaf674c8b72e8da0e65c5/coacd/decomposed.obj
+count: 1178
+total: 1178
+data/bottle/940b9e91a4a32a4130612f5c0ef21eb8/coacd/decomposed.obj
+count: 1634
+total: 1634
+data/bottle/a87fc2164d5bb73b9a6e43b878d5b335/coacd/decomposed.obj
+count: 1172
+total: 1172
+data/bottle/a118d15a0c74091e3ba6f328e4cd62be/coacd/decomposed.obj
+count: 1702
+total: 1702
+data/bottle/fca70766d88fc7b9e5054d95cb6a63e2/coacd/decomposed.obj
+count: 1414
+total: 1414
+data/bottle/d3eea69d9d58401c76c2a9de5c96f76/coacd/decomposed.obj
+count: 2794
+total: 2794
+data/bottle/7446fa250adf49c5e7ef9fff09638f8e/coacd/decomposed.obj
+count: 1586
+total: 1586
+data/bottle/7467b9892496a83fbf8b9d530de7a108/coacd/decomposed.obj
+count: 1042
+total: 1042
+data/bottle/158634b1d7d010eeebe67d9b32c3ddf8/coacd/decomposed.obj
+count: 1050
+total: 1050
+data/bottle/ee74f5bfb0d7c8a5bd288303be3d57e7/coacd/decomposed.obj
+count: 1782
+total: 1782
+data/bottle/114509277e76e413c8724d5673a063a6/coacd/decomposed.obj
+count: 1812
+total: 1812
+data/bottle/ee77714471b911baeeff0dee910fd183/coacd/decomposed.obj
+count: 1148
+total: 1148
+data/bottle/a1c63c463ad7fc1fb549927fbd0d12d/coacd/decomposed.obj
+count: 728
+total: 728
+data/bottle/bf7ecd80f7c419feca972daa503b3095/coacd/decomposed.obj
+count: 1764
+total: 1764
+data/bottle/8cd9b10f611ac28e866a1445c8fba9da/coacd/decomposed.obj
+count: 1462
+total: 1462
+data/bottle/371b604f78300e02d76ab6ff59fe7e10/coacd/decomposed.obj
+count: 1058
+total: 1058
+data/bottle/368bbfbb2fe08a6b4c5c5c89015f1980/coacd/decomposed.obj
+count: 1914
+total: 1914
+data/bottle/200b3f3d859c8677ad5067eac75a07f7/coacd/decomposed.obj
+count: 3242
+total: 3242
+data/bottle/92472817f72dd619467ca2ad6571afff/coacd/decomposed.obj
+count: 2620
+total: 2620
+data/bottle/9c8d90ef60e0b37fd317c475f024f3b8/coacd/decomposed.obj
+count: 948
+total: 948
+data/bottle/42f85b0eb5e9fd508f9c4ecc067067e9/coacd/decomposed.obj
+count: 5448
+total: 5448
+data/bottle/89b12196a1db5a74bb8058680b6b9460/coacd/decomposed.obj
+count: 1284
+total: 1284
+data/bottle/d1792ebb96fe73ff30612f5c0ef21eb8/coacd/decomposed.obj
+count: 1376
+total: 1376
+data/bottle/f6ffca90c543edf9d6438d5cb8c578c6/coacd/decomposed.obj
+count: 2640
+total: 2640
+data/bottle/af853a8c58d2b631992eedbdd14b936d/coacd/decomposed.obj
+count: 1064
+total: 1064
+data/bottle/546eded3ac7801412389a54fb53b0765/coacd/decomposed.obj
+count: 1826
+total: 1826
+data/bottle/9b9a4bb5550f00ea586350d6e78ecc7/coacd/decomposed.obj
+count: 1928
+total: 1928
+data/bottle/81b2ce7d719326c8fd54367fe37b16/coacd/decomposed.obj
+count: 1496
+total: 1496
+data/bottle/3e7d7a9637e385f2fd1efdcc788bb066/coacd/decomposed.obj
+count: 1186
+total: 1186
+data/bottle/ee3ca78e36c6a7b2a367d39c852840d5/coacd/decomposed.obj
+count: 1684
+total: 1684
+data/bottle/de71aa5eca9ee76a95f577622f465c85/coacd/decomposed.obj
+count: 1064
+total: 1064
+data/bottle/640835881dd33a2d30354e87bd14ec69/coacd/decomposed.obj
+count: 2320
+total: 2320
+data/bottle/35ad544a3a4b25b122de9a89c84a71b7/coacd/decomposed.obj
+count: 6430
+total: 6430
+data/bottle/109d55a137c042f5760315ac3bf2c13e/coacd/decomposed.obj
+count: 1364
+total: 1364
+data/bottle/e4ada697d05ac7acf9907e8bdd53291e/coacd/decomposed.obj
+count: 582
+total: 582
+data/bottle/c4b6121d162a3cb216ae07d515c8c56e/coacd/decomposed.obj
+count: 3759
+total: 3760
+dif 1
+data/bottle/b45d6cadaba5b6a72d20e9f11baa5f8f/coacd/decomposed.obj
+count: 4046
+total: 4046
+data/bottle/ac7e1eed3c4ded7db3010b85c6cbc688/coacd/decomposed.obj
+count: 2006
+total: 2006
+data/bottle/860c81982a1703d35a7ce4c111af2db/coacd/decomposed.obj
+count: 1146
+total: 1146
+data/bottle/59d7b4e7bc3c5d9d99fbba385cc0d41d/coacd/decomposed.obj
+count: 800
+total: 800
+data/bottle/26a8d94392d86aa0940806ade53ef2f/coacd/decomposed.obj
+count: 938
+total: 938
+data/bottle/681e91bbadebeac529471183b63392dc/coacd/decomposed.obj
+count: 1746
+total: 1746
+data/bottle/bcbc2c637bed89e4d1b69ad96276e132/coacd/decomposed.obj
+count: 5038
+total: 5038
+data/bottle/c107c8cfe88fa057ce53fd26be6d8b08/coacd/decomposed.obj
+count: 1066
+total: 1066
+data/bottle/2976131e4621231655bf395569b6fd5/coacd/decomposed.obj
+count: 1722
+total: 1722
+data/bottle/e24fb21f7cb7998d94b2f4c4a75fd722/coacd/decomposed.obj
+count: 768
+total: 768
+data/bottle/ed55f39e04668bf9837048966ef3fcb9/coacd/decomposed.obj
+count: 596
+total: 596
+data/bottle/44e45054f9ef4e251881e4573fc7a947/coacd/decomposed.obj
+count: 2516
+total: 2516
+data/bottle/ab5ca2f648a9daa1b5ad628041310f96/coacd/decomposed.obj
+count: 6878
+total: 6878
+data/bottle/a86d587f38569fdf394a7890920ef7fd/coacd/decomposed.obj
+count: 3188
+total: 3188
+data/bottle/f1ae9b2eb551ba466dc523ea4bf73f1c/coacd/decomposed.obj
+count: 7136
+total: 7136
+data/bottle/8099b9d546231dd27b9c6deef486a7d8/coacd/decomposed.obj
+count: 1532
+total: 1532
+data/bottle/63f60daa8d254f445200bdb78a83bb9b/coacd/decomposed.obj
+count: 1732
+total: 1732
+data/bottle/b033d2a7efef6d881bd37ceeddc6ee3/coacd/decomposed.obj
+count: 1038
+total: 1038
+data/bottle/24feb92770933b1663995fb119e59971/coacd/decomposed.obj
+count: 1632
+total: 1632
+data/bottle/957f897018c8c387b79156a61ad4c01/coacd/decomposed.obj
+count: 2724
+total: 2724
+data/bottle/22d18e34097ec57a80b49bbcfa357c86/coacd/decomposed.obj
+count: 1884
+total: 1884
+data/bottle/62451f0ab130709ef7480cb1ee830fb9/coacd/decomposed.obj
+count: 946
+total: 946
+data/bottle/8a23e8ae357fa2b71920da6870de352/coacd/decomposed.obj
+count: 2080
+total: 2080
+data/bottle/1f1e747bfce16fe0589ac2c115a083f1/coacd/decomposed.obj
+count: 1498
+total: 1498
+data/bottle/1d4093ad2dfad9df24be2e4f911ee4af/coacd/decomposed.obj
+count: 1194
+total: 1194
+data/bottle/ff13595434879bba557ef92e2fa0ccb2/coacd/decomposed.obj
+count: 1278
+total: 1278
+data/bottle/10f709cecfbb8d59c2536abb1e8e5eab/coacd/decomposed.obj
+count: 1340
+total: 1340
+data/bottle/7280a6655ec867d67b79156a61ad4c01/coacd/decomposed.obj
+count: 830
+total: 830
+data/bottle/b2507913d631e8b8bcfad79fc308fa6d/coacd/decomposed.obj
+count: 6726
+total: 6726
+data/bottle/2efb9eef0ed832a89769b3a50399d097/coacd/decomposed.obj
+count: 1298
+total: 1298
+data/bottle/547ace45594ef71fc867fe00083d17f7/coacd/decomposed.obj
+count: 1108
+total: 1108
+data/bottle/6c56bd467b8e6b7912c4d7e462c15a1a/coacd/decomposed.obj
+count: 2524
+total: 2524
+data/bottle/545225eda0e900f6d4a7a4c7d6e9bdc3/coacd/decomposed.obj
+count: 688
+total: 688
+data/bottle/595e22f425839eac2d4b0854f7611ed6/coacd/decomposed.obj
+count: 3574
+total: 3574
+data/bottle/592f62e338fcac1eb0be98650cd7fb6f/coacd/decomposed.obj
+count: 2370
+total: 2370
+data/bottle/3d8444d8717cc0b7c18cdaa4851a3c95/coacd/decomposed.obj
+count: 1858
+total: 1858
+data/bottle/bfe7d0102dcd0deff43af5716b936459/coacd/decomposed.obj
+count: 552
+total: 552
+data/bottle/2722bec1947151b86e22e2d2f64c8cef/coacd/decomposed.obj
+count: 1908
+total: 1908
+data/bottle/47ebee26ca51177ac3fdab075b98c5d8/coacd/decomposed.obj
+count: 2154
+total: 2154
+data/bottle/d910d855fd179dc066c1a8ee69277898/coacd/decomposed.obj
+count: 1500
+total: 1500
+data/bottle/7b1fc86844257f8fa54fd40ef3a8dfd0/coacd/decomposed.obj
+count: 2112
+total: 2112
+data/bottle/39d4723b8ac197d4dcc91b6bf08a2274/coacd/decomposed.obj
+count: 2022
+total: 2022
+data/bottle/40aee078f0390b7134076b5960251711/coacd/decomposed.obj
+count: 1182
+total: 1182
+data/bottle/1cf98e5b6fff5471c8724d5673a063a6/coacd/decomposed.obj
+count: 652
+total: 652
+data/bottle/5277b4491396a522333769b054e66b40/coacd/decomposed.obj
+count: 2526
+total: 2526
+data/bottle/7980922e83b5461febe67d9b32c3ddf8/coacd/decomposed.obj
+count: 1470
+total: 1470
+data/bottle/2db802ef3de3d00618a36258eabc2b9c/coacd/decomposed.obj
+count: 998
+total: 998
+data/bottle/8d861e4406a9d3258534bca5562e21be/coacd/decomposed.obj
+count: 8571
+total: 8572
+dif 1
+data/bottle/9eccbc942fc8c0011ee059e8e1a2ee9/coacd/decomposed.obj
+count: 1890
+total: 1890
+data/bottle/13d991326c6e8b14fce33f1a52ee07f2/coacd/decomposed.obj
+count: 1542
+total: 1542
+data/bottle/7746997b8cfd8d11f4718731863dd64d/coacd/decomposed.obj
+count: 4436
+total: 4436
+data/bottle/41ab1142420916e374bb1e92fd01dc00/coacd/decomposed.obj
+count: 1978
+total: 1978
+data/bottle/f079d5f4f4a8cd9318431871c8e05789/coacd/decomposed.obj
+count: 768
+total: 768
+data/bottle/1349b2169a97a0ff54e1b6f41fdd78a/coacd/decomposed.obj
+count: 2106
+total: 2106
+data/bottle/908e85e13c6fbde0a1ca08763d503f0e/coacd/decomposed.obj
+count: 1050
+total: 1050
+data/bottle/4b5f54fc4e629371cf078dc7b29022e6/coacd/decomposed.obj
+count: 580
+total: 580
+data/bottle/dd280525cf000bc3a608634464309a70/coacd/decomposed.obj
+count: 880
+total: 880
+data/bottle/cf0a733f9a63f4f5664b3b9b23ddfcbc/coacd/decomposed.obj
+count: 2136
+total: 2136
+data/bottle/70e58e9f89fd9802a9891f6668163611/coacd/decomposed.obj
+count: 1654
+total: 1654
+data/bottle/ee007f1aac12fbe549a44197486ae284/coacd/decomposed.obj
+count: 1782
+total: 1782
+data/bottle/3999ca6a50ae47c876b38b4cbe0c74b7/coacd/decomposed.obj
+count: 2164
+total: 2164
+data/bottle/72d49a11c34a3b6880dd154b5d9c087/coacd/decomposed.obj
+count: 580
+total: 580
+data/bottle/9ba6291a60113dbfeb6d856318cd1a7e/coacd/decomposed.obj
+count: 2122
+total: 2122
+data/bottle/776502db6e2e680e5e4f0d37557f3953/coacd/decomposed.obj
+count: 1294
+total: 1294
+data/bottle/f62bfe9756ae99be9921431405933fd2/coacd/decomposed.obj
+count: 2068
+total: 2068
+data/bottle/e593aa021f3fa324530647fc03dd20dc/coacd/decomposed.obj
+count: 926
+total: 926
+data/bottle/991d9df5bf2a33a1c9292f26f73f6538/coacd/decomposed.obj
+count: 3550
+total: 3550
+data/bottle/412d5f41b5fda0b271dbcf1c4061c69b/coacd/decomposed.obj
+count: 1508
+total: 1508
+data/bottle/a429f8eb0c3e6a1e6ea2d79f658bbae7/coacd/decomposed.obj
+count: 972
+total: 972
+data/bottle/56c23ba1699f6294435b5a0263ddd2e2/coacd/decomposed.obj
+count: 2136
+total: 2136
+data/bottle/9a70dd116325eb2df6b14e57dce52ee1/coacd/decomposed.obj
+count: 7608
+total: 7608
+data/bottle/dc0926ce09d6ce78eb8e919b102c6c08/coacd/decomposed.obj
+count: 1104
+total: 1104
+data/bottle/ac79fd7f10f274aba2c59a4d90e63212/coacd/decomposed.obj
+count: 6080
+total: 6080
+data/bottle/46910c75d17ef8554c6e2707eea5c15e/coacd/decomposed.obj
+count: 2306
+total: 2306
+data/bottle/9cec36de93bb49d3f07ead639233915e/coacd/decomposed.obj
+count: 1876
+total: 1876
+data/bottle/9012b03ddb6d9a3dfbe67b89c7bdca4f/coacd/decomposed.obj
+count: 2468
+total: 2468
+data/bottle/dc9247034a68285efea8a3df5e20f054/coacd/decomposed.obj
+count: 1914
+total: 1914
+data/bottle/abe557fa1b9d59489c81f0389df0e98a/coacd/decomposed.obj
+count: 1386
+total: 1386
+data/bottle/d44472ef7086538676bb31db0358e9c6/coacd/decomposed.obj
+count: 1138
+total: 1138
+data/bottle/cdeccf2f410846d0e0155f56493d36bc/coacd/decomposed.obj
+count: 4742
+total: 4742
+data/bottle/9a777a5f3701fb6b940806ade53ef2f/coacd/decomposed.obj
+count: 1914
+total: 1914
+data/bottle/78d707f4d87b5bfd730ff85f0d8004ee/coacd/decomposed.obj
+count: 2090
+total: 2090
+data/bottle/eded10bf44a2571a911cff0cb398f845/coacd/decomposed.obj
+count: 2796
+total: 2796
+data/bottle/9f2bb4a157164af19a7c9976093a710d/coacd/decomposed.obj
+count: 1826
+total: 1826
+data/bottle/cec14f91bf10f86e8291825d073a05e1/coacd/decomposed.obj
+count: 1336
+total: 1336
+data/bottle/758fb2cab125eb6b153b368d6f14e275/coacd/decomposed.obj
+count: 1206
+total: 1206
+data/bottle/c80173e23efaac35535deb3b0c692a2a/coacd/decomposed.obj
+count: 2360
+total: 2360
+data/bottle/2d1aa4e124c0dd5bf937e5c6aa3f9597/coacd/decomposed.obj
+count: 2998
+total: 2998
+data/bottle/4a1fe3495565001d211b8bef58aae14f/coacd/decomposed.obj
+count: 2774
+total: 2774
+data/bottle/dc005c019fbfb32c90071898148dca0e/coacd/decomposed.obj
+count: 1330
+total: 1330
+data/bottle/5a58f9c3966c1248a7c2417f4b260d59/coacd/decomposed.obj
+count: 1512
+total: 1512
+data/bottle/abe3a232d973941d49a3c1009fa79820/coacd/decomposed.obj
+count: 2714
+total: 2714
+data/bottle/c13219fac28e722edd6a2f6a8ecad52d/coacd/decomposed.obj
+count: 1514
+total: 1514
+data/bottle/dc2c07ff617d1da0197a35146ee825cd/coacd/decomposed.obj
+count: 1322
+total: 1322
+data/bottle/452c562f86da1ca7bdcda0bf7e7b4744/coacd/decomposed.obj
+count: 1114
+total: 1114
+data/bottle/cf6843231592b29e2586fa0d0359af6/coacd/decomposed.obj
+count: 3618
+total: 3618
+data/bottle/7d41c6018862dc419d231837a704886d/coacd/decomposed.obj
+count: 2126
+total: 2126
+data/bottle/3108a736282eec1bc58e834f0b160845/coacd/decomposed.obj
+count: 2604
+total: 2604
+data/bottle/8ea8ced5529a3ffa7ae0a62f7ca532f1/coacd/decomposed.obj
+count: 3156
+total: 3156
+data/bottle/912a49eeda6cd8c5e3c462ac6e0f506f/coacd/decomposed.obj
+count: 1194
+total: 1194
+data/bottle/73632ddb4a5684503594b3be653e6bff/coacd/decomposed.obj
+count: 4808
+total: 4808
+data/bottle/8a0320b2be22e234d0d131ea6d955bf0/coacd/decomposed.obj
+count: 2100
+total: 2100
+data/bottle/5e896bc124bc0af9fd590443d27a974e/coacd/decomposed.obj
+count: 1635
+total: 1636
+dif 1
+data/bottle/807f781ec8310baaa2e58dbee8c64797/coacd/decomposed.obj
+count: 1574
+total: 1574
+data/bottle/810e90684c0d4ce5636e3a589cf8c61c/coacd/decomposed.obj
+count: 1156
+total: 1156
+data/bottle/74690ddde9c0182696c2e7960a15c619/coacd/decomposed.obj
+count: 536
+total: 536
+data/bottle/684ff2b770c26616d3dfba73f54d35bb/coacd/decomposed.obj
+count: 2046
+total: 2046
+data/bottle/2ed752a96e55398928beb1ac60ef8914/coacd/decomposed.obj
+count: 3072
+total: 3072
+data/bottle/3d295fccf7d4e4dfd317c475f024f3b8/coacd/decomposed.obj
+count: 2028
+total: 2028
+data/bottle/8aeb546f0381df6e97b6ee740552021c/coacd/decomposed.obj
+count: 12374
+total: 12374
+data/bottle/542223f09a872e973858be97087c26ec/coacd/decomposed.obj
+count: 1222
+total: 1222
+data/bottle/5d6001f9e6a15de3e3edb5ba52088f8c/coacd/decomposed.obj
+count: 1762
+total: 1762
+data/bottle/4fcb653e7978812d9c3900c9619d4db4/coacd/decomposed.obj
+count: 1094
+total: 1094
+data/bottle/32bb26b4d2cd5ee0b3b14ef623ad866a/coacd/decomposed.obj
+count: 2740
+total: 2740
+data/bottle/ab3795042c759b6798646029ad91cbbd/coacd/decomposed.obj
+count: 596
+total: 596
+data/bottle/8707d78855e8cce1ed51290fb4dc2857/coacd/decomposed.obj
+count: 1080
+total: 1080
+data/bottle/a1275bd03ab15100f6dbe3dc17d6cdf7/coacd/decomposed.obj
+count: 630
+total: 630
+data/bottle/347f9f4a04cc00841fba588fa05a3c38/coacd/decomposed.obj
+count: 1390
+total: 1390
+data/bottle/d74bc917899133e080c257afea181fa2/coacd/decomposed.obj
+count: 3527
+total: 3528
+dif 1
+data/bottle/be102516d65bcf23ff59f7e635b49cca/coacd/decomposed.obj
+count: 7158
+total: 7158
+data/bottle/97179a870ed9f12da452d8ffbbc0126/coacd/decomposed.obj
+count: 3522
+total: 3522
+data/bottle/1a7ba1f4c892e2da30711cdbdbc73924/coacd/decomposed.obj
+count: 3672
+total: 3672
+data/bottle/289b2ca2562277a9ca3fbd0e4ec160a5/coacd/decomposed.obj
+count: 1286
+total: 1286
+data/bottle/9dff3d09b297cdd930612f5c0ef21eb8/coacd/decomposed.obj
+count: 1188
+total: 1188
+data/bottle/518f6867e5d38301fd3bf7a5792372cb/coacd/decomposed.obj
+count: 5336
+total: 5336
+data/bottle/2f4ec01bad6cd5ac488017d48a7f7eb4/coacd/decomposed.obj
+count: 3820
+total: 3820
+data/bottle/ac131ac1bbe3dd10846564a8a219239b/coacd/decomposed.obj
+count: 1254
+total: 1254
+data/bottle/77699e08e3824eab47765668cf4023ed/coacd/decomposed.obj
+count: 640
+total: 640
+data/bottle/2fa757f584a3be31a7ceedb2540a32b0/coacd/decomposed.obj
+count: 2460
+total: 2460
+data/bottle/fda8d8820e4d166bd7134844380eaeb0/coacd/decomposed.obj
+count: 708
+total: 708
+data/bottle/b198ccb35182e73ffd2866d52d2e8042/coacd/decomposed.obj
+count: 888
+total: 888
+data/bottle/58279e870f4aec6963b58f539d58d6d5/coacd/decomposed.obj
+count: 1684
+total: 1684
+data/bottle/701ea218827f9a7a733657da4b6687f4/coacd/decomposed.obj
+count: 5410
+total: 5410
+data/bottle/5cbf1e8f31bae4cd67d1cb27b1ca00d7/coacd/decomposed.obj
+count: 1208
+total: 1208
+data/bottle/3dbd66422997d234b811ffed11682339/coacd/decomposed.obj
+count: 1612
+total: 1612
+data/bottle/2eba1ad799a00142938c8d9daf9b36f6/coacd/decomposed.obj
+count: 932
+total: 932
+data/bottle/cf6eff1143f9826ab5c14191b5dd293b/coacd/decomposed.obj
+count: 3584
+total: 3584
+data/bottle/323705d1a8505cdb498751cf10995c30/coacd/decomposed.obj
+count: 860
+total: 860
+data/bottle/9f50b2ddbcc2141cfa20324e30e0bf40/coacd/decomposed.obj
+count: 2588
+total: 2588
+data/bottle/6b884893938943f70b5ecdc69e74dca/coacd/decomposed.obj
+count: 1222
+total: 1222
+data/bottle/f0611ec9ff89209bf10c4513652c1c5e/coacd/decomposed.obj
+count: 1366
+total: 1366
+data/bottle/1c38ca26c65826804c35e2851444dc2f/coacd/decomposed.obj
+count: 2059
+total: 2060
+dif 1
+data/bottle/6da7fa9722b2a12d195232a03d04563a/coacd/decomposed.obj
+count: 864
+total: 864
+data/bottle/dd686080a4d1cac8e85013a1e4383bdd/coacd/decomposed.obj
+count: 1346
+total: 1346
+data/bottle/adace8a468fd575037939c05190e283f/coacd/decomposed.obj
+count: 3550
+total: 3550
+data/bottle/b1271f402910cf05cfdfe3f21f42a111/coacd/decomposed.obj
+count: 1614
+total: 1614
+data/bottle/b8fd592b4b5dcaa41aa761bcc4793321/coacd/decomposed.obj
+count: 798
+total: 798
+data/bottle/541c4dc1d1b42978648ed39e926e682f/coacd/decomposed.obj
+count: 1424
+total: 1424
+data/bottle/b6261066a2e8e4212c528d33bca1ac2/coacd/decomposed.obj
+count: 1766
+total: 1766
+data/bottle/2bbd2b37776088354e23e9314af9ae57/coacd/decomposed.obj
+count: 534
+total: 534
+data/bottle/c6442bba98ad3dcf5e912b2d2934c0b6/coacd/decomposed.obj
+count: 3232
+total: 3232
+data/bottle/d3b53f56b4a7b3b3c9f016d57db96408/coacd/decomposed.obj
+count: 856
+total: 856
+data/bottle/14588e373cdb9143ca972ee98a070b3d/coacd/decomposed.obj
+count: 1100
+total: 1100
+data/bottle/48202d357e79315e45891653421dc140/coacd/decomposed.obj
+count: 1094
+total: 1094
+data/bottle/10dff3c43200a7a7119862dbccbaa609/coacd/decomposed.obj
+count: 3136
+total: 3136
+data/bottle/e23f62bb4794ee6a7fdd0518ed16e820/coacd/decomposed.obj
+count: 2298
+total: 2298
+data/bottle/1d4480abe9aa45ce51a99c0e19a8a54/coacd/decomposed.obj
+count: 1244
+total: 1244
+data/bottle/cc48fe97a95e8716ccaa5ad584801c3e/coacd/decomposed.obj
+count: 1108
+total: 1108
+data/bottle/f35f3a1ce31850e8b9ca8a85614dd727/coacd/decomposed.obj
+count: 784
+total: 784
+data/bottle/bd28b6cd2fdb691b8d8eca78e5e16d9d/coacd/decomposed.obj
+count: 690
+total: 690
+data/bottle/5fb5ef6280e09d96d11ab9fa7ac20266/coacd/decomposed.obj
+count: 962
+total: 962
+data/bottle/726a6ce68bcb4b2d14513156cf2b8d0d/coacd/decomposed.obj
+count: 1414
+total: 1414
+data/bottle/bd6fdeae09b3c00c3ea96ac97db63fa8/coacd/decomposed.obj
+count: 3836
+total: 3836
+data/bottle/8adc0ce79962ac2021072d05c97a5e0a/coacd/decomposed.obj
+count: 1748
+total: 1748
+data/bottle/af3dda1cfe61d0fc9403b0d0536a04af/coacd/decomposed.obj
+count: 1664
+total: 1664
+data/bottle/6b810dbc89542fd8a531220b48579115/coacd/decomposed.obj
+count: 1326
+total: 1326
+data/bottle/c553b7e594942f0a4c0bba210aa0d1/coacd/decomposed.obj
+count: 2356
+total: 2356
+data/bottle/be16ada66829940a451786f3cbfd6769/coacd/decomposed.obj
+count: 472
+total: 472
+data/bottle/32074e5642bad0e12c16495e79df12c1/coacd/decomposed.obj
+count: 1092
+total: 1092
+data/bottle/84bc4006535545fad2986c98896facaa/coacd/decomposed.obj
+count: 3548
+total: 3548
+data/bottle/63d98b2654d8d2a2f9411c52486c6e63/coacd/decomposed.obj
+count: 1338
+total: 1338
+data/bottle/70172e6afe6aff7847f90c1ac631b97f/coacd/decomposed.obj
+count: 1372
+total: 1372
+data/bottle/ae52386c7a6e25a1a666d1503f8e34ad/coacd/decomposed.obj
+count: 2182
+total: 2182
+data/bottle/b742bd7f675191c24ad6a0c67b7f7a5b/coacd/decomposed.obj
+count: 1250
+total: 1250
+data/bottle/2cc108080535bc51e7a14f6d159dcd47/coacd/decomposed.obj
+count: 1944
+total: 1944
+data/bottle/b1e5b106e6e25c44a4530e3038c81e85/coacd/decomposed.obj
+count: 2366
+total: 2366
+data/bottle/b362273df5596c7e7f095f36ba0999f4/coacd/decomposed.obj
+count: 15959
+total: 15962
+dif 3
+data/bottle/af4ff1c4a94383e9ca017e2245ec1dae/coacd/decomposed.obj
+count: 2918
+total: 2918
+data/bottle/caa8379f21c74f611f058bf0578300/coacd/decomposed.obj
+count: 2098
+total: 2098
+data/bottle/dc687759ea93d1b72cd6cd3dc3fb5dc2/coacd/decomposed.obj
+count: 920
+total: 920
+data/bottle/a34966853ab2272ab2047d3072d5e051/coacd/decomposed.obj
+count: 1502
+total: 1502
+data/bottle/5ca994bd512be485db3bac7ad77ae88e/coacd/decomposed.obj
+count: 1668
+total: 1668
+data/bottle/b1d75ad18d986ec760005b40a079e2d3/coacd/decomposed.obj
+count: 5214
+total: 5214
+data/bottle/29cad22b0fc6c9985f16c469ffeb982e/coacd/decomposed.obj
+count: 1836
+total: 1836
+data/bottle/ab6792cddc7c4c83afbf338b16b43f53/coacd/decomposed.obj
+count: 1928
+total: 1928
+data/bottle/b35973652d9a526c64848cfde3847b25/coacd/decomposed.obj
+count: 2504
+total: 2504
+data/bottle/1ae823260851f7d9ea600d1a6d9f6e07/coacd/decomposed.obj
+count: 2102
+total: 2102
+data/bottle/f853ac62bc288e48e56a63d21fb60ae9/coacd/decomposed.obj
+count: 1934
+total: 1934
+data/bottle/47ede0c10e36fe309029fc9335eeb05c/coacd/decomposed.obj
+count: 1328
+total: 1328
+data/bottle/621e786d6343d3aa2c96718b14a4add9/coacd/decomposed.obj
+count: 1198
+total: 1198
+data/bottle/7565e6eeee63174757354938178674b/coacd/decomposed.obj
+count: 2396
+total: 2396
+data/bottle/a4a6a464cb1db9286bdbc69440dbff90/coacd/decomposed.obj
+count: 2550
+total: 2550
+data/bottle/3f6d549265532efa2faef6cbf71ebacc/coacd/decomposed.obj
+count: 996
+total: 996
+data/bottle/8b7933b0376cea4a1efe98244cb8c300/coacd/decomposed.obj
+count: 2731
+total: 2734
+dif 3
+data/bottle/59763dfe99084f0440ba17ccf542984c/coacd/decomposed.obj
+count: 1520
+total: 1520
+data/bottle/3a9516eb02206108e0c8359faeb78bbe/coacd/decomposed.obj
+count: 1408
+total: 1408
+data/bottle/2a9817a43c5b3983bb13793251b29587/coacd/decomposed.obj
+count: 1374
+total: 1374
+data/bottle/ffa6c49aa8f7ec19971e7f8dbfabf375/coacd/decomposed.obj
+count: 2828
+total: 2828
+data/bottle/c3767df815e0e43e4c3a35cee92bb95b/coacd/decomposed.obj
+count: 1822
+total: 1822
+data/bottle/f83c3b75f637241aebe67d9b32c3ddf8/coacd/decomposed.obj
+count: 1220
+total: 1220
+data/bottle/2a3e0c1cd0e9076cddf5870150a75bc/coacd/decomposed.obj
+count: 468
+total: 468
+data/bottle/e5a5dac174982cea2dcdfc29ed7a2492/coacd/decomposed.obj
+count: 4148
+total: 4148
+data/bottle/d45bf1487b41d2f630612f5c0ef21eb8/coacd/decomposed.obj
+count: 2044
+total: 2044
+data/bottle/9dd18bbd88df283a6b36e3e6a5b248ba/coacd/decomposed.obj
+count: 3620
+total: 3620
+data/bottle/a02a1255256fbe01c9292f26f73f6538/coacd/decomposed.obj
+count: 3214
+total: 3214
+data/bottle/948e374b08979da230612f5c0ef21eb8/coacd/decomposed.obj
+count: 2404
+total: 2404
+data/bottle/78f5db072e28145db1e647730e72f91c/coacd/decomposed.obj
+count: 1434
+total: 1434
+data/bottle/46b5318e39afe48a30eaaf40a8a562c1/coacd/decomposed.obj
+count: 1414
+total: 1414
+data/bottle/fdc47f5f8dff184830eaaf40a8a562c1/coacd/decomposed.obj
+count: 2130
+total: 2130
+data/bottle/8e20da9c3f63ac2ce902acf138e668e2/coacd/decomposed.obj
+count: 2444
+total: 2444
+data/bottle/970027a2c9f1de88c123147a914238ea/coacd/decomposed.obj
+count: 1570
+total: 1570
+data/bottle/df4ec460683acbb89d789ef7917b7723/coacd/decomposed.obj
+count: 1622
+total: 1622
+data/bottle/15787789482f045d8add95bf56d3d2fa/coacd/decomposed.obj
+count: 1462
+total: 1462
+data/bottle/83620edd3ecbce0de3bf00cc25b4223/coacd/decomposed.obj
+count: 1842
+total: 1842
+data/bottle/5ad47181a9026fc728cc22dce7529b69/coacd/decomposed.obj
+count: 1884
+total: 1884
+data/bottle/935b737dca29fbf4ef026123226f5519/coacd/decomposed.obj
+count: 2508
+total: 2508
+data/bottle/f9f67fe61dcf46d7e19818797f240d91/coacd/decomposed.obj
+count: 492
+total: 492
+data/bottle/2618100a5821a4d847df6165146d5bbd/coacd/decomposed.obj
+count: 1536
+total: 1536
+data/bottle/3ae3a9b74f96fef28fe15648f042f0d9/coacd/decomposed.obj
+count: 4504
+total: 4504
+data/bottle/e56e77c6eb21d9bdf577ff4de1ac394c/coacd/decomposed.obj
+count: 2008
+total: 2008
+data/bottle/7778c06ab2af1121b4bfcf9b3e6ed915/coacd/decomposed.obj
+count: 2194
+total: 2194
+data/bottle/e119bf2041459392601bea3dca268229/coacd/decomposed.obj
+count: 866
+total: 866
+data/bottle/3f41aaa42a237fa3c785f06f424b9d06/coacd/decomposed.obj
+count: 1472
+total: 1472
+data/bottle/aa616bbf51ae233278d5828fe3be4b43/coacd/decomposed.obj
+count: 2256
+total: 2256
+data/bottle/ab51424e92acace2a1c3f37422b63004/coacd/decomposed.obj
+count: 1396
+total: 1396
+data/bottle/714320da4aafcb4a47be2353d2b2403b/coacd/decomposed.obj
+count: 1710
+total: 1710
+data/bottle/c3bc0cd2648e76b9187964c89b3399f1/coacd/decomposed.obj
+count: 1886
+total: 1886
+data/bottle/883ace957dbb32e7846564a8a219239b/coacd/decomposed.obj
+count: 722
+total: 722
+data/bottle/829ad86e645d11b1bcbe24a1993b1795/coacd/decomposed.obj
+count: 3110
+total: 3110
+data/bottle/25b8ed5b02f07b6cbcfad79fc308fa6d/coacd/decomposed.obj
+count: 4294
+total: 4294
+data/bottle/437678d4bc6be981c8724d5673a063a6/coacd/decomposed.obj
+count: 2396
+total: 2396
+data/bottle/26e6f23bf6baea05fe5c8ffd0f5eba47/coacd/decomposed.obj
+count: 2146
+total: 2146
+data/bottle/b7ffc4d34ffbd449940806ade53ef2f/coacd/decomposed.obj
+count: 1416
+total: 1416
+data/bottle/21dbbd17ae4c3fce6a90f735365ac29e/coacd/decomposed.obj
+count: 2780
+total: 2780
+data/bottle/634c59bf37676ca64c3a35cee92bb95b/coacd/decomposed.obj
+count: 986
+total: 986
+data/bottle/77a2242bf4ea8f9fc02fe00a7187a6a9/coacd/decomposed.obj
+count: 1448
+total: 1448
+data/bottle/1ffd7113492d375593202bf99dddc268/coacd/decomposed.obj
+count: 1396
+total: 1396
+data/bottle/e37cfb42fe03034842ab55d7ba3461f/coacd/decomposed.obj
+count: 2776
+total: 2776
+data/bottle/738d7eb5c8800842f8060bac8721179/coacd/decomposed.obj
+count: 1394
+total: 1394
+data/bottle/2927d6c8438f6e24fe6460d8d9bd16c6/coacd/decomposed.obj
+count: 1174
+total: 1174
+data/bottle/a95db9f4cb692657a09c6a60c6dc420/coacd/decomposed.obj
+count: 1840
+total: 1840
+data/bottle/8d27a39b1a33dcf9660045a6e369fc9f/coacd/decomposed.obj
+count: 2314
+total: 2314
+data/bottle/d2e7e725aa6b39f0d333084c1357713e/coacd/decomposed.obj
+count: 1038
+total: 1038
+data/bottle/d4a8a5243b976630e3eacec6011567b3/coacd/decomposed.obj
+count: 728
+total: 728
+data/bottle/e8b48d395d3d8744e53e6e0633163da8/coacd/decomposed.obj
+count: 1234
+total: 1234
+data/bottle/331601288075868e342fe691e18bb5fd/coacd/decomposed.obj
+count: 2884
+total: 2884
+data/bottle/9da48acd8046be50307e049494951dab/coacd/decomposed.obj
+count: 1058
+total: 1058
+data/bottle/fec05c85454edafc4310636931b68fdb/coacd/decomposed.obj
+count: 1936
+total: 1936
+data/bottle/44dcea00fb1923051a4cb1c0c7bb0654/coacd/decomposed.obj
+count: 2042
+total: 2042
+data/bottle/e7818a94d20fd8e1a4136492f17b9a59/coacd/decomposed.obj
+count: 3696
+total: 3696
+data/bottle/1e5abf0465d97d826118a17db9de8c0/coacd/decomposed.obj
+count: 2634
+total: 2634
+data/bottle/9e274df011a9643c21ec51d5b72ac4e7/coacd/decomposed.obj
+count: 1376
+total: 1376
+data/bottle/d5dd0b4d16d2b6808bda158eedb63a62/coacd/decomposed.obj
+count: 3142
+total: 3142
+data/bottle/9d2d3a8d1dd877c1101343fb67a1d189/coacd/decomposed.obj
+count: 1930
+total: 1930
+data/bottle/cbe88d4a56535ba64e23e9314af9ae57/coacd/decomposed.obj
+count: 350
+total: 350
+data/bottle/e90e0506fd00fe93f42d6bd378df1c70/coacd/decomposed.obj
+count: 2532
+total: 2532
+data/bottle/fa44223c6f785c60e71da2487cb2ee5b/coacd/decomposed.obj
+count: 2060
+total: 2060
+data/bottle/44dae93d7b7701e1eb986aac871fa4e5/coacd/decomposed.obj
+count: 1242
+total: 1242
+data/bottle/6444875e3217bf891f5f48a891d827bd/coacd/decomposed.obj
+count: 2882
+total: 2882
+data/bottle/5c1253ae61a16e306871591246ec74dc/coacd/decomposed.obj
+count: 3698
+total: 3698
+data/bottle/d30623112e58b893eee7d6dab02eb061/coacd/decomposed.obj
+count: 2412
+total: 2412
+data/bottle/1071fa4cddb2da2fc8724d5673a063a6/coacd/decomposed.obj
+count: 822
+total: 822
+data/bottle/3861b002979703fbed4f86beca49f32/coacd/decomposed.obj
+count: 1570
+total: 1570
+data/bottle/b13f6dc78d904e5c30612f5c0ef21eb8/coacd/decomposed.obj
+count: 850
+total: 850
+data/bottle/81bf26a14c2dda38c19359cf6b65431e/coacd/decomposed.obj
+count: 948
+total: 948
+data/bottle/6c24c027831790516f79a03aa42f27b9/coacd/decomposed.obj
+count: 998
+total: 998
+data/bottle/81bbf3134d1ca27a58449bd132e3a3fe/coacd/decomposed.obj
+count: 1736
+total: 1736
+data/bottle/edfcffbdd585d00ec41b4a535d52e063/coacd/decomposed.obj
+count: 6563
+total: 6564
+dif 1
+data/bottle/8a980192662f95b84f42eadbd9a0b820/coacd/decomposed.obj
+count: 1156
+total: 1156
+data/bottle/3c6d6ff143483efaebb19cf38af396e6/coacd/decomposed.obj
+count: 1320
+total: 1320
+data/bottle/6ab0ef1973477031ad5067eac75a07f7/coacd/decomposed.obj
+count: 2294
+total: 2294
+data/bottle/d85f1862dfe799cbf78b6c51ab8f145e/coacd/decomposed.obj
+count: 2080
+total: 2080
+data/bottle/e4915635a488cbfc4c3a35cee92bb95b/coacd/decomposed.obj
+count: 2472
+total: 2472
+data/bottle/a1bc36109cd382b78340c8802f48c170/coacd/decomposed.obj
+count: 3266
+total: 3266
+data/bottle/4d4fc73864844dad1ceb7b8cc3792fd/coacd/decomposed.obj
+count: 2596
+total: 2596
+data/bottle/523cddb320608c09a37f3fc191551700/coacd/decomposed.obj
+count: 1070
+total: 1070
+data/bottle/5ac30e855ea3faad8884a069d9619eaf/coacd/decomposed.obj
+count: 3462
+total: 3462
+data/bottle/3b956918a41da89c325e6e8eb2c67fd8/coacd/decomposed.obj
+count: 1110
+total: 1110
+data/bottle/547fa0085800c5c3846564a8a219239b/coacd/decomposed.obj
+count: 3212
+total: 3212
+data/bottle/30c6b5511ff09ac33526ea1c3de37e7/coacd/decomposed.obj
+count: 3384
+total: 3384
+data/bottle/a1858315e1b17f57e1507433bf0da3de/coacd/decomposed.obj
+count: 2907
+total: 2908
+dif 1
+data/bottle/488139f06d9905d830ffab76baff35a5/coacd/decomposed.obj
+count: 4582
+total: 4582
+data/bottle/c5e425b9b1f4f42b6d7d15cb5e1928e/coacd/decomposed.obj
+count: 1614
+total: 1614
+data/bottle/5566f264a6fa08cd2a68e506fbd6eecf/coacd/decomposed.obj
+count: 1416
+total: 1416
+data/bottle/f1c0e107dc158727a8360f05ea0a1d2d/coacd/decomposed.obj
+count: 5536
+total: 5536
+data/bottle/d829ffd1d35f36a61ad51dad4e9c1543/coacd/decomposed.obj
+count: 1188
+total: 1188
+data/bottle/d851cbc873de1c4d3b6eb309177a6753/coacd/decomposed.obj
+count: 2478
+total: 2478
+data/bottle/da2703e6d87a28e75887f1f81e7530ec/coacd/decomposed.obj
+count: 444
+total: 444
+data/bottle/d9aee510fd5e8afb93fb5c975e8de2b7/coacd/decomposed.obj
+count: 1844
+total: 1844
+data/bottle/3f91158956ad7db0322747720d7d37e8/coacd/decomposed.obj
+count: 2438
+total: 2438
+data/bottle/225d046d8f798afacba9caf4d254cef0/coacd/decomposed.obj
+count: 2584
+total: 2584
+data/bottle/6a96b74beea7f5b316aa41fc58452f78/coacd/decomposed.obj
+count: 2882
+total: 2882
+data/bottle/2f4cf418cb91949d38fc23bb1b265fa7/coacd/decomposed.obj
+count: 1332
+total: 1332
+data/bottle/c771267feb7ee16761d12ece735ab44/coacd/decomposed.obj
+count: 950
+total: 950
+data/bottle/d8021dc9fc9109b130612f5c0ef21eb8/coacd/decomposed.obj
+count: 1732
+total: 1732
+data/bottle/c82bbd1b1a929c7ce8ed8cf0a077ddf7/coacd/decomposed.obj
+count: 7624
+total: 7624
+data/bottle/ad33ed7da4ef1b1cca18d703b8006093/coacd/decomposed.obj
+count: 2214
+total: 2214
+data/bottle/405ee743f0d8601551238db1f507a8c7/coacd/decomposed.obj
+count: 2124
+total: 2124
+data/bottle/546111e6869f41aca577e3e5353dd356/coacd/decomposed.obj
+count: 1606
+total: 1606
+data/bottle/831918158307c1eef4757ae525403621/coacd/decomposed.obj
+count: 1400
+total: 1400
+data/bottle/3a6fae97b5fa5cbb3db8babb13da5441/coacd/decomposed.obj
+count: 2999
+total: 3000
+dif 1
+data/bottle/dacc6638cd62d82f42ebc0504c999b/coacd/decomposed.obj
+count: 1678
+total: 1678
+data/bottle/e101cc44ead036294bc79c881a0e818b/coacd/decomposed.obj
+count: 824
+total: 824
+data/bottle/3b26c9021d9e31a7ad8912880b776dcf/coacd/decomposed.obj
+count: 798
+total: 798
+data/bottle/a00a9d045b69171472dfe26068766359/coacd/decomposed.obj
+count: 1888
+total: 1888
+data/bottle/c5032e4be091aabb36fe7a88df793982/coacd/decomposed.obj
+count: 6218
+total: 6218
+data/bottle/f49d6c4b75f695c44d34bdc365023cf4/coacd/decomposed.obj
+count: 1600
+total: 1600
+data/bottle/5561fe6ad83a5000fc0eb7bdb358f874/coacd/decomposed.obj
+count: 1148
+total: 1148
+data/bottle/495dea92a04b43e6be9fabb33de62010/coacd/decomposed.obj
+count: 3966
+total: 3966
+data/bottle/40e5d2c6e9e9cbbf5cafd3b1501bc74/coacd/decomposed.obj
+count: 502
+total: 502
+data/bottle/6f4749e802e6b5eb30612f5c0ef21eb8/coacd/decomposed.obj
+count: 2124
+total: 2124
+data/bottle/b2498accc1c3fe732db3066d0100ee4/coacd/decomposed.obj
+count: 2356
+total: 2356
+data/bottle/f68e99b57596b33d197a35146ee825cd/coacd/decomposed.obj
+count: 798
+total: 798
+data/bottle/d511899945a400b183b4ef314c5735aa/coacd/decomposed.obj
+count: 3626
+total: 3626
+data/bottle/99d595bf3ac08bace13f76b539e1d69a/coacd/decomposed.obj
+count: 1778
+total: 1778
+data/bottle/64ad00b1757205a3f388b3201b32e1d0/coacd/decomposed.obj
+count: 14197
+total: 14198
+dif 1
+data/bottle/917fd3e68de79bf69ece21a0b0786a69/coacd/decomposed.obj
+count: 2008
+total: 2008
+data/bottle/cb3ff04a607ea9651b22d29e47ec3f2/coacd/decomposed.obj
+count: 856
+total: 856
+data/bottle/7984d4980d5b07bceba393d429f71de3/coacd/decomposed.obj
+count: 2206
+total: 2206
+data/bottle/5470f2c11fd647a7c5af224a021be7c5/coacd/decomposed.obj
+count: 1712
+total: 1712
+data/bottle/74221bae887b0e801ab89e10ca4a3aec/coacd/decomposed.obj
+count: 2462
+total: 2462
+data/bottle/77c9a8391c708ae5940806ade53ef2f/coacd/decomposed.obj
+count: 1198
+total: 1198
+data/bottle/244894af3ba967ccd957eaf7f4edb205/coacd/decomposed.obj
+count: 2578
+total: 2578
+data/bottle/725c3906071ecad52701ea82a42c662b/coacd/decomposed.obj
+count: 2020
+total: 2020
+data/bottle/e29e8121d93af93bba803759c05367b0/coacd/decomposed.obj
+count: 1598
+total: 1598
+data/bottle/cbc1cbc9cf65e9c2fd1d6016d24cc8d/coacd/decomposed.obj
+count: 3765
+total: 3766
+dif 1
+data/bottle/cf7a79435eb5b1bdb0be98650cd7fb6f/coacd/decomposed.obj
+count: 1166
+total: 1166
+data/bottle/ed8aff7768d2cc3e45bcca2603f7a948/coacd/decomposed.obj
+count: 822
+total: 822
+data/bottle/f6fa8cc6b08aaabb2aafb83519a0c8dc/coacd/decomposed.obj
+count: 3054
+total: 3054
+data/bottle/b38eb308649c8c5de7de92adde5735ef/coacd/decomposed.obj
+count: 2458
+total: 2458
+data/bottle/532376fe56d3597ac65f62bae01f4803/coacd/decomposed.obj
+count: 2446
+total: 2446
+data/bottle/bd5f6815e92e5fd72389a54fb53b0765/coacd/decomposed.obj
+count: 1848
+total: 1848
+data/bottle/f2279b29f7d45bbd744c199e33849f2a/coacd/decomposed.obj
+count: 1306
+total: 1306
+data/bottle/3336ff069b249afcaea6c6fc97ee6184/coacd/decomposed.obj
+count: 1044
+total: 1044
+data/bottle/738033cec99efcf2890766cd24d8fa7b/coacd/decomposed.obj
+count: 1256
+total: 1256
+data/bottle/4301fe10764677dcdf0266d76aa42ba/coacd/decomposed.obj
+count: 1200
+total: 1200
+data/bottle/61847ebb20b88ce2a62e98cb10d773b0/coacd/decomposed.obj
+count: 782
+total: 782
+data/bottle/3d758f0c11f01e3e3ddcd369aa279f39/coacd/decomposed.obj
+count: 3694
+total: 3694
+data/bottle/5a1e624764af0205bf8b9d530de7a108/coacd/decomposed.obj
+count: 3285
+total: 3286
+dif 1
+data/bottle/20b7adb178ea2c71d8892a9c05c4aa0e/coacd/decomposed.obj
+count: 2854
+total: 2854
+data/bottle/5566c65116a9567078fe949fc1419876/coacd/decomposed.obj
+count: 2072
+total: 2072
+data/bottle/14adee7ed296842c874073279cad6d18/coacd/decomposed.obj
+count: 1260
+total: 1260
+data/bottle/d34628eb8992d1f418ae046addd85243/coacd/decomposed.obj
+count: 2284
+total: 2284
+data/bottle/21239b0cafa13526cafb7c62b057a234/coacd/decomposed.obj
+count: 1798
+total: 1798
+data/bottle/7712db835816a52b250241e1ab69b97f/coacd/decomposed.obj
+count: 1654
+total: 1654
+data/bottle/bf73707d87715aa8ad5067eac75a07f7/coacd/decomposed.obj
+count: 2292
+total: 2292
+data/bottle/5872e807edaf985878fe949fc1419876/coacd/decomposed.obj
+count: 2196
+total: 2196
+data/bottle/bd50af3416f45348679a03fdc41e0266/coacd/decomposed.obj
+count: 1958
+total: 1958
+data/bottle/6987e839b802a349a9039b9668d0f11f/coacd/decomposed.obj
+count: 2628
+total: 2628
+data/bottle/712b597f47b04755f715d98aead3ae6f/coacd/decomposed.obj
+count: 1116
+total: 1116
+data/bottle/f0a5f6d2cf8fcb72c12d8e00a78db6e2/coacd/decomposed.obj
+count: 1038
+total: 1038
+data/bottle/41a2005b595ae783be1868124d5ddbcb/coacd/decomposed.obj
+count: 922
+total: 922
+data/bottle/bcacdde81063a5df30612f5c0ef21eb8/coacd/decomposed.obj
+count: 2048
+total: 2048
+data/bottle/799397068de1ae1c4587d6a85176d7a0/coacd/decomposed.obj
+count: 894
+total: 894
+data/bottle/3ba7dd61736e7a96270c0e719fe4ed97/coacd/decomposed.obj
+count: 9478
+total: 9478
+data/bottle/8cf1cc180de4ecd0a826d25a0acb0476/coacd/decomposed.obj
+count: 1510
+total: 1510
+data/bottle/27b9f07da9217c89ef026123226f5519/coacd/decomposed.obj
+count: 1344
+total: 1344
+data/bottle/43ad6585f6b9a64675e1008a71b1c5e9/coacd/decomposed.obj
+count: 1300
+total: 1300
+data/bottle/add17b35bc4665e6f33a685c2506bbe6/coacd/decomposed.obj
+count: 866
+total: 866
+data/bottle/4ec31503deb053636c19a70b7478f722/coacd/decomposed.obj
+count: 1354
+total: 1354
+data/bottle/6d680415396d14d4d7c5502d4a22edf5/coacd/decomposed.obj
+count: 1276
+total: 1276
+data/bottle/7bf5bbcff98f3d272561bfd89201eee3/coacd/decomposed.obj
+count: 556
+total: 556
+data/bottle/4c95086448461907d2e07f4a91040392/coacd/decomposed.obj
+count: 2878
+total: 2878
+data/bottle/64faa2a6a6f844af851f4ba6aaedaaa8/coacd/decomposed.obj
+count: 1796
+total: 1796
+data/bottle/b35081bcc11ff7847b8ec2c9a49686dd/coacd/decomposed.obj
+count: 2190
+total: 2190
+data/bottle/74e5ea1a783a5f5f533775ea6714a372/coacd/decomposed.obj
+count: 960
+total: 960
+data/bottle/7f5db4889a433ce5e7a14f6d159dcd47/coacd/decomposed.obj
+count: 528
+total: 528
+data/bottle/f4851a2835228377e101b7546e3ee8a7/coacd/decomposed.obj
+count: 1050
+total: 1050
+data/bottle/8309e710832c07f91082f2ea630bf69e/coacd/decomposed.obj
+count: 1282
+total: 1282
+data/bottle/22249179e88b0502846564a8a219239b/coacd/decomposed.obj
+count: 1836
+total: 1836
+data/bottle/d3ed110edb3b8a4172639f272c5e060d/coacd/decomposed.obj
+count: 704
+total: 704
+data/bottle/11fc9827d6b467467d3aa3bae1f7b494/coacd/decomposed.obj
+count: 1496
+total: 1496
+data/bottle/95e6a3a1232f97e3d333084c1357713e/coacd/decomposed.obj
+count: 760
+total: 760
+data/bottle/e656d6586d481f41eb69804478f9c547/coacd/decomposed.obj
+count: 896
+total: 896
+data/bottle/688eacb56a16702f9a6e43b878d5b335/coacd/decomposed.obj
+count: 956
+total: 956
+data/bottle/591153135f8571a69fc36bc06f1db2fa/coacd/decomposed.obj
+count: 950
+total: 950
+data/bottle/216adefa94f25d7968a3710932407607/coacd/decomposed.obj
+count: 2118
+total: 2118
+data/bottle/3bf6160225cd15453a762233fffc49ea/coacd/decomposed.obj
+count: 694
+total: 694
+data/bottle/3de5abb596766c5380dd154b5d9c087/coacd/decomposed.obj
+count: 580
+total: 580
+data/bottle/3f6dd828b9880456807c41acb554a82/coacd/decomposed.obj
+count: 1672
+total: 1672
+data/bottle/f47cbefc9aa5b6a918431871c8e05789/coacd/decomposed.obj
+count: 2952
+total: 2952
+data/bottle/defc45107217afb846564a8a219239b/coacd/decomposed.obj
+count: 1528
+total: 1528
+data/bottle/bb46957091f2a282cfdfe3f21f42a111/coacd/decomposed.obj
+count: 2052
+total: 2052
+data/bottle/645cf2b7f442865ebf8d8d6022c8e3a/coacd/decomposed.obj
+count: 12010
+total: 12012
+dif 2
+data/bottle/6b8b2cb01c376064c8724d5673a063a6/coacd/decomposed.obj
+count: 1002
+total: 1002
+data/bottle/632a0bd7869cb763780bbc8616cb15f8/coacd/decomposed.obj
+count: 1696
+total: 1696
+data/bottle/6d652a95363bb682b692b490d9871ff1/coacd/decomposed.obj
+count: 5808
+total: 5808
+data/bottle/f03f9704001d2055ab8a56962d772d13/coacd/decomposed.obj
+count: 5090
+total: 5090
+data/bottle/29b6f9c7ae76847e763c517ce709a8cc/coacd/decomposed.obj
+count: 1436
+total: 1436
+data/bottle/b00152d19e8f2b87b2d2b5b947dc0b8d/coacd/decomposed.obj
+count: 3232
+total: 3232
+data/bottle/d2c9c369376827adf8f0533aaf004c87/coacd/decomposed.obj
+count: 2517
+total: 2518
+dif 1
+data/bottle/ca2341f33cd4995dae7fdc0845a47bf5/coacd/decomposed.obj
+count: 438
+total: 438
+data/bottle/204c2b0a5e0a0ac3efd4121045846f28/coacd/decomposed.obj
+count: 774
+total: 774
+data/bottle/cc399bb619ddddf7c13f8623d10d3404/coacd/decomposed.obj
+count: 556
+total: 556
+data/bottle/98f2bdf417a15ceaa5d6dc096343ac63/coacd/decomposed.obj
+count: 3350
+total: 3350
+data/bottle/1df41477bce9915e362078f6fc3b29f5/coacd/decomposed.obj
+count: 1478
+total: 1478
+data/bottle/6d3c20adcce2dd0f79b7b9ca8006b2fe/coacd/decomposed.obj
+count: 1170
+total: 1170
+data/bottle/33dcf806c673d958f4bdca145ed48dc6/coacd/decomposed.obj
+count: 1860
+total: 1860
+data/bowl/aad3cd6a40a15cb8664b3b9b23ddfcbc/coacd/decomposed.obj
+count: 2900
+total: 2900
+data/bowl/3a7737c7bb4a6194f60bf3def77dca62/coacd/decomposed.obj
+count: 5988
+total: 5988
+data/bowl/6816c12cc00a961758463a756b0921b5/coacd/decomposed.obj
+count: 5382
+total: 5382
+data/bowl/d98455f19960f99ed684faddec3c0090/coacd/decomposed.obj
+count: 5158
+total: 5158
+data/bowl/d5b3fb99c8084a6c5430c0f7a585e679/coacd/decomposed.obj
+count: 5912
+total: 5912
+data/bowl/4227b58665eadcefc0dc3ed657ab97f0/coacd/decomposed.obj
+count: 2854
+total: 2854
+data/bowl/708fce7ba7d911f3d5b5e7c77f0efc2/coacd/decomposed.obj
+count: 4762
+total: 4762
+data/bowl/5f2ef71aa9b94edbb84959963148f2a2/coacd/decomposed.obj
+count: 7899
+total: 7900
+dif 1
+data/bowl/a73d531b90965199e5f6d587dbc348b5/coacd/decomposed.obj
+count: 2948
+total: 2948
+data/bowl/c6be3b333b1f7ec9d42a2a5a47e9ed5/coacd/decomposed.obj
+count: 3906
+total: 3906
+data/bowl/6118da3aa071921b664b3b9b23ddfcbc/coacd/decomposed.obj
+count: 3350
+total: 3350
+data/bowl/b941ca9770b59c3918a27ff49f2f297f/coacd/decomposed.obj
+count: 7490
+total: 7490
+data/bowl/13e879cb517784a63a4b07a265cff347/coacd/decomposed.obj
+count: 6174
+total: 6174
+data/bowl/c82e28d7f713f07a5a15f0bff2482ab8/coacd/decomposed.obj
+count: 4366
+total: 4366
+data/bowl/8bb057d18e2fcc4779368d1198f406e7/coacd/decomposed.obj
+count: 5029
+total: 5030
+dif 1
+data/bowl/ab2fd38fc4f37cce86bbb74f0f607cdd/coacd/decomposed.obj
+count: 4466
+total: 4466
+data/bowl/ee3b4a98683feab4633d74df68189e22/coacd/decomposed.obj
+count: 3302
+total: 3302
+data/bowl/9dcfab1fab6232003bec56bff764ba78/coacd/decomposed.obj
+count: 6332
+total: 6332
+data/bowl/709778e5ebb67e32b396efafc0d0d8ac/coacd/decomposed.obj
+count: 1542
+total: 1542
+data/bowl/f0fdca5f5c7a06252dbdfbe028032489/coacd/decomposed.obj
+count: 3836
+total: 3836
+data/bowl/98d3408054ab409fd261c3d31246fed3/coacd/decomposed.obj
+count: 6031
+total: 6032
+dif 1
+data/bowl/b195dbe537993945e4e346ee2650d150/coacd/decomposed.obj
+count: 3328
+total: 3328
+data/bowl/260545503087dc5186810055962d0a91/coacd/decomposed.obj
+count: 5320
+total: 5320
+data/bowl/5e2c558555092b706e30831c34845769/coacd/decomposed.obj
+count: 4181
+total: 4182
+dif 1
+data/bowl/754634abeb7bffc32977b68653eb2e1e/coacd/decomposed.obj
+count: 2922
+total: 2922
+data/bowl/4530e6df2747b643f6415fd62314b5ed/coacd/decomposed.obj
+count: 3846
+total: 3846
+data/bowl/782aa72e7f14975b39d764edb37837d3/coacd/decomposed.obj
+count: 5458
+total: 5458
+data/bowl/7d7bdea515818eb844638317e9e4ff18/coacd/decomposed.obj
+count: 1968
+total: 1968
+data/bowl/9a52843cc89cd208362be90aaa182ec6/coacd/decomposed.obj
+count: 5714
+total: 5714
+data/bowl/80608e58db79d4d83b722c86abee0751/coacd/decomposed.obj
+count: 4580
+total: 4580
+data/bowl/11547e8d8f143557525b133235812833/coacd/decomposed.obj
+count: 4970
+total: 4970
+data/bowl/4fdb0bd89c490108b8c8761d8f1966ba/coacd/decomposed.obj
+count: 4428
+total: 4428
+data/bowl/e3d4d57aea714a88669ff09d7001bab6/coacd/decomposed.obj
+count: 4057
+total: 4058
+dif 1
+data/bowl/4cf18594e8851a3d3a5e6305a3a7adee/coacd/decomposed.obj
+count: 5412
+total: 5412
+data/bowl/fc77ad0828db2caa533e44d90297dd6e/coacd/decomposed.obj
+count: 5470
+total: 5470
+data/bowl/aa70f5e55fa61d8dac6b8e58caf61f95/coacd/decomposed.obj
+count: 5458
+total: 5458
+data/bowl/e4c871d1d5e3c49844b2fa2cac0778f5/coacd/decomposed.obj
+count: 14844
+total: 14844
+data/bowl/2e545ccae1cdc69d879b85bd5ada6e71/coacd/decomposed.obj
+count: 8394
+total: 8394
+data/bowl/4017528ab5816338664b3b9b23ddfcbc/coacd/decomposed.obj
+count: 5118
+total: 5118
+data/bowl/faa200741fa93abb47ec7417da5d353d/coacd/decomposed.obj
+count: 5822
+total: 5822
+data/bowl/a0b34a720dd364d9ccdca257be791a55/coacd/decomposed.obj
+count: 3120
+total: 3120
+data/bowl/524eb99c8d45eb01664b3b9b23ddfcbc/coacd/decomposed.obj
+count: 5656
+total: 5656
+data/bowl/8d457deaf22394da65c5c31ac688ec4/coacd/decomposed.obj
+count: 3252
+total: 3252
+data/bowl/9c7edf31042fea84df95dda4222cd1bf/coacd/decomposed.obj
+count: 2528
+total: 2528
+data/bowl/b007af6eabaa290dd42b9650f19dd425/coacd/decomposed.obj
+count: 4524
+total: 4524
+data/bowl/b5d1f064841b476dba5342d638d0c267/coacd/decomposed.obj
+count: 3914
+total: 3914
+data/bowl/1b4d7803a3298f8477bdcb8816a3fac9/coacd/decomposed.obj
+count: 5518
+total: 5518
+data/bowl/8b90aa9f4418c75452dd9cc5bac31c96/coacd/decomposed.obj
+count: 5402
+total: 5402
+data/bowl/3f6a6718d729b77bed2eab6efdeec5f8/coacd/decomposed.obj
+count: 1482
+total: 1482
+data/bowl/817221e45b63cef62f74bdafe5239fba/coacd/decomposed.obj
+count: 3956
+total: 3956
+data/bowl/aeb7b4bb33fd43a14e23e9314af9ae57/coacd/decomposed.obj
+count: 3096
+total: 3096
+data/bowl/538db91266f2829bc0f7e0e05bae6131/coacd/decomposed.obj
+count: 3584
+total: 3584
+data/bowl/a9ba34614bfd8ca9938afc5c0b5b182/coacd/decomposed.obj
+count: 5906
+total: 5906
+data/bowl/571f294b5ab7e47a5517442d05421cb/coacd/decomposed.obj
+count: 3838
+total: 3838
+data/bowl/92f04b8d36c98d18221d647283ba1e26/coacd/decomposed.obj
+count: 4178
+total: 4178
+data/bowl/f2cb15fb793e7fa244057c222118625/coacd/decomposed.obj
+count: 3862
+total: 3864
+dif 2
+data/bowl/4eefe941048189bdb8046e84ebdc62d2/coacd/decomposed.obj
+count: 3522
+total: 3522
+data/bowl/dd15ee7374954827c5be64abd4416cc9/coacd/decomposed.obj
+count: 4548
+total: 4548
+data/bowl/ae5c7d8a453d3ef736b0f2a1430e993a/coacd/decomposed.obj
+count: 3450
+total: 3450
+data/bowl/2c1df84ec01cea4e525b133235812833/coacd/decomposed.obj
+count: 6072
+total: 6072
+data/bowl/e3e57a94be495771f54e1b6f41fdd78a/coacd/decomposed.obj
+count: 5532
+total: 5532
+data/bowl/bec41cc7f631e00b1bf40e92cbe8569f/coacd/decomposed.obj
+count: 1600
+total: 1600
+data/bowl/a95e0d8b37f8ca436a3309b77df3f951/coacd/decomposed.obj
+count: 6416
+total: 6416
+data/bowl/a2841256fc6fd90da518b93bb7233de6/coacd/decomposed.obj
+count: 4126
+total: 4126
+data/bowl/d78860e8318fb75a12a72bbc636a1f9d/coacd/decomposed.obj
+count: 2581
+total: 2582
+dif 1
+data/bowl/a08af31cb43f1f662d88c45db31bc366/coacd/decomposed.obj
+count: 3642
+total: 3642
+data/bowl/292d2dda9923752f3e275dc4ab785b9f/coacd/decomposed.obj
+count: 6978
+total: 6978
+data/bowl/47175c7b12bf0b61320b691da6d871fb/coacd/decomposed.obj
+count: 3255
+total: 3256
+dif 1
+data/bowl/a1d26a16a0caa78243f1c519d66bb167/coacd/decomposed.obj
+count: 4950
+total: 4950
+data/bowl/c399bfee7f25f0ff95aab58c1db71c10/coacd/decomposed.obj
+count: 4106
+total: 4106
+data/bowl/4b32d2c623b54dd4fe296ad57d60d898/coacd/decomposed.obj
+count: 4298
+total: 4298
+data/bowl/d2e1dc9ee02834c71621c7edb823fc53/coacd/decomposed.obj
+count: 2860
+total: 2860
+data/bowl/a29f53390194166665c638ab0bc6bc66/coacd/decomposed.obj
+count: 1988
+total: 1988
+data/bowl/f44387d8cb8d2e4ebaedc225f2279ecf/coacd/decomposed.obj
+count: 5291
+total: 5292
+dif 1
+data/bowl/9a6cec1cfca7e8b5ebc583f22bd58b85/coacd/decomposed.obj
+count: 1960
+total: 1960
+data/bowl/519f07b4ecb0b82ed82a7d8f544ae151/coacd/decomposed.obj
+count: 4642
+total: 4642
+data/bowl/3bedfd655c45c6747bc26b16f550876f/coacd/decomposed.obj
+count: 7238
+total: 7238
+data/bowl/8d1f575e9223b28b8183a4a81361b94/coacd/decomposed.obj
+count: 5862
+total: 5862
+data/bowl/2a1e9b5c0cead676b8183a4a81361b94/coacd/decomposed.obj
+count: 4054
+total: 4054
+data/bowl/ea473a79fd2c98e5789eafad9d8a9394/coacd/decomposed.obj
+count: 5078
+total: 5078
+data/bowl/6a772d12b98ab61dc26651d9d35b77ca/coacd/decomposed.obj
+count: 4236
+total: 4236
+data/bowl/e072da5c1e38c11a7548281e465c9303/coacd/decomposed.obj
+count: 4204
+total: 4204
+data/bowl/ce905d4381d4daf65287b12a83c64b85/coacd/decomposed.obj
+count: 6930
+total: 6930
+data/bowl/7c43116dbe35797aea5000d9d3be7992/coacd/decomposed.obj
+count: 4706
+total: 4706
+data/bowl/960c5c5bff2d3a4bbced73c51e99f8b2/coacd/decomposed.obj
+count: 4712
+total: 4712
+data/bowl/b69e25e7ab9b829215b14098c484b7c1/coacd/decomposed.obj
+count: 5664
+total: 5664
+data/bowl/6501113f772fc798db649551c356c6e8/coacd/decomposed.obj
+count: 2630
+total: 2630
+data/bowl/8d75c3c065fa3c7055f46d55537192b6/coacd/decomposed.obj
+count: 8388
+total: 8388
+data/bowl/188281000adddc9977981b941eb4f5d1/coacd/decomposed.obj
+count: 3304
+total: 3304
+data/bowl/454fa7fd637177cf2bea4b6e7618432/coacd/decomposed.obj
+count: 6912
+total: 6912
+data/bowl/be8a2f8460a963426a6acc5f155f864/coacd/decomposed.obj
+count: 2924
+total: 2924
+data/bowl/b5d81a5bbbb8efe7c785f06f424b9d06/coacd/decomposed.obj
+count: 7518
+total: 7518
+data/bowl/c8a4719150446e84664b3b9b23ddfcbc/coacd/decomposed.obj
+count: 3502
+total: 3502
+data/bowl/baeaa576ba746179e8d7df9e0b95a9b2/coacd/decomposed.obj
+count: 2868
+total: 2868
+data/bowl/68582543c4c6d0bccfdfe3f21f42a111/coacd/decomposed.obj
+count: 5512
+total: 5512
+data/bowl/326c6280eee2bf74257e043ec9630f/coacd/decomposed.obj
+count: 3706
+total: 3706
+data/bowl/95ac294f47fd7d87e0b49f27ced29e3/coacd/decomposed.obj
+count: 3624
+total: 3624
+data/bowl/f2ef5e5b49f2bb8340dfb1e6c8f5a333/coacd/decomposed.obj
+count: 4181
+total: 4182
+dif 1
+data/bowl/c2882316451828fd7945873d861da519/coacd/decomposed.obj
+count: 5282
+total: 5282
+data/bowl/5b6d840652f0050061d624c546a68fec/coacd/decomposed.obj
+count: 4597
+total: 4598
+dif 1
+data/bowl/12ddb18397a816c8948bef6886fb4ac/coacd/decomposed.obj
+count: 3954
+total: 3954
+data/bowl/fa61e604661d4aa66658ecd96794a1cd/coacd/decomposed.obj
+count: 4570
+total: 4570
+data/bowl/53f5240e1e82c96e2d20e9f11baa5f8f/coacd/decomposed.obj
+count: 9271
+total: 9272
+dif 1
+data/bowl/446583d7bf857dced5cb6d178687b980/coacd/decomposed.obj
+count: 4871
+total: 4872
+dif 1
+data/bowl/5aad71b5e6cb3967674684c50f1db165/coacd/decomposed.obj
+count: 7330
+total: 7330
+data/bowl/381db800b87b5ff88616812464c86290/coacd/decomposed.obj
+count: 3842
+total: 3842
+data/bowl/eff9864bfb9920b521374fbf1ea544c/coacd/decomposed.obj
+count: 4713
+total: 4714
+dif 1
+data/bowl/baa4d6ca9521a55b51d6f7c8e810987e/coacd/decomposed.obj
+count: 4596
+total: 4596
+data/bowl/89bde5319b8a7de044841730d607e227/coacd/decomposed.obj
+count: 2824
+total: 2824
+data/bowl/e3095ecacc36080cb398a1cfd1079875/coacd/decomposed.obj
+count: 4832
+total: 4832
+data/bowl/7995c6a5838e12ed447eea2e92abe28f/coacd/decomposed.obj
+count: 2476
+total: 2476
+data/bowl/c1bad5cc2d9050e48aee29ee398d36ed/coacd/decomposed.obj
+count: 4318
+total: 4318
+data/bowl/530c2d8f55f9e9e8ce364511e87f52b0/coacd/decomposed.obj
+count: 5200
+total: 5200
+data/bowl/afb6bf20c56e86f3d8fdbcba78c84028/coacd/decomposed.obj
+count: 6268
+total: 6268
+data/bowl/2cfecc8ce6c7cd1f3497637ec59e0374/coacd/decomposed.obj
+count: 3120
+total: 3120
+data/bowl/d28f7a7a8fbc5fc925b5a13384fa548b/coacd/decomposed.obj
+count: 5958
+total: 5958
+data/bowl/be3c2533130dd3da55f46d55537192b6/coacd/decomposed.obj
+count: 7622
+total: 7622
+data/bowl/bd2ba805bf1739cdedd852e9640b8d4/coacd/decomposed.obj
+count: 12254
+total: 12254
+data/bowl/34875f8448f98813a2c59a4d90e63212/coacd/decomposed.obj
+count: 6558
+total: 6558
+data/bowl/56803af65db53307467ca2ad6571afff/coacd/decomposed.obj
+count: 5146
+total: 5146
+data/bowl/9024177b7ed352f45126f17934e17803/coacd/decomposed.obj
+count: 4518
+total: 4518
+data/bowl/3152c7a0e8ee4356314eed4e88b74a21/coacd/decomposed.obj
+count: 5850
+total: 5850
+data/bowl/9ea66797afeb86196ea1c514a0de6d2d/coacd/decomposed.obj
+count: 5868
+total: 5868
+data/bowl/4967063fc3673caa47fe6b02985fbd0/coacd/decomposed.obj
+count: 3538
+total: 3538
+data/bowl/46d014209027ec188e74a3351a4d8b3a/coacd/decomposed.obj
+count: 6730
+total: 6730
+data/bowl/7ed1eb89d5463580a2c59a4d90e63212/coacd/decomposed.obj
+count: 5354
+total: 5354
+data/bowl/da5f13f4048dbd72fcb8d8c6d4df8143/coacd/decomposed.obj
+count: 1954
+total: 1954
+data/bowl/d1addad5931dd337713f2e93cbeac35d/coacd/decomposed.obj
+count: 5448
+total: 5448
+data/bowl/1a0a2715462499fbf9029695a3277412/coacd/decomposed.obj
+count: 2916
+total: 2916
+data/bowl/32f9c710e264388e2150a45ec52bcbd7/coacd/decomposed.obj
+count: 1824
+total: 1824
+data/bowl/4845731dbf7522b07492cbf7d8bec255/coacd/decomposed.obj
+count: 4155
+total: 4156
+dif 1
+data/bowl/5019f979a6a360963a5e6305a3a7adee/coacd/decomposed.obj
+count: 4592
+total: 4592
+data/bowl/c0f57c7f98d2581c744a455c7eef0ae5/coacd/decomposed.obj
+count: 6358
+total: 6358
+data/bowl/5bb12905529c85359d3d767e1bc88d65/coacd/decomposed.obj
+count: 6114
+total: 6114
+data/bowl/f09d5d7ed64b6585eb6db0b349a2b804/coacd/decomposed.obj
+count: 5480
+total: 5480
+data/bowl/fa23aa60ec51c8e4c40fe5637f0a27e1/coacd/decomposed.obj
+count: 4062
+total: 4062
+data/bowl/ce48ffb418b99996912a38ce5826ebb8/coacd/decomposed.obj
+count: 3622
+total: 3622
+data/bowl/a0ac0c76dbb4b7685430c0f7a585e679/coacd/decomposed.obj
+count: 6998
+total: 6998
+data/bowl/3f56833e91054d2518e800f0d88f9019/coacd/decomposed.obj
+count: 1412
+total: 1412
+data/bowl/6930c4d2e7e880b2e20e92c5b8147e4a/coacd/decomposed.obj
+count: 5539
+total: 5540
+dif 1
+data/bowl/db180e4f9a75ae717ba6f8f10959534c/coacd/decomposed.obj
+count: 6028
+total: 6028
+data/bowl/64d7f5eb886cfa48ce6101c7990e61d4/coacd/decomposed.obj
+count: 1320
+total: 1320
+data/bowl/a1393437aac09108d627bfab5d10d45d/coacd/decomposed.obj
+count: 3918
+total: 3918
+data/bowl/64b180d51c6b8cc1e4e346ee2650d150/coacd/decomposed.obj
+count: 4216
+total: 4216
+data/bowl/a593e8863200fdb0664b3b9b23ddfcbc/coacd/decomposed.obj
+count: 4412
+total: 4412
+data/bowl/1f910faf81555f8e664b3b9b23ddfcbc/coacd/decomposed.obj
+count: 4670
+total: 4670
+data/bowl/4bf56e6a081c2a85a11f6bacf5c7662d/coacd/decomposed.obj
+count: 5134
+total: 5134
+data/bowl/a5f42bbfddcadf05eeb8d422649e5f2b/coacd/decomposed.obj
+count: 5954
+total: 5954
+data/bowl/bb7586ebee0dc2be4e346ee2650d150/coacd/decomposed.obj
+count: 1480
+total: 1480
+data/bowl/2ffe06ee50ec1420adbe0813683fcfd0/coacd/decomposed.obj
+count: 2010
+total: 2010
+data/bowl/ad8a50aa5894bc40c762eb31f1f0c676/coacd/decomposed.obj
+count: 3668
+total: 3668
+data/bowl/b65cbede8f483d51f7de4d28691515e1/coacd/decomposed.obj
+count: 3120
+total: 3120
+data/bowl/e16e27d3670853b12d4e6b2984840098/coacd/decomposed.obj
+count: 8960
+total: 8960
+data/bowl/804092c488e7c8e420d3c05c08e26f/coacd/decomposed.obj
+count: 6792
+total: 6792
+data/bowl/a83b2eb519fbef17e922c0c19528ec07/coacd/decomposed.obj
+count: 3792
+total: 3792
+data/bowl/1fbb9f70d081630e638b4be15b07b442/coacd/decomposed.obj
+count: 3610
+total: 3610
+data/bowl/bed9f618bef8d3e9f6d436d018e2b50f/coacd/decomposed.obj
+count: 5394
+total: 5394
+data/bowl/2d2c419136447fe667964ba700cd97f5/coacd/decomposed.obj
+count: 3980
+total: 3980
+data/bowl/429a622eac559887bbe43d356df0e955/coacd/decomposed.obj
+count: 5432
+total: 5432
+data/bowl/18529eba21e4be8b5cc4957a8e7226be/coacd/decomposed.obj
+count: 2664
+total: 2664
+data/bowl/441cac4bae5c7c315c2a2c970803cfe2/coacd/decomposed.obj
+count: 5420
+total: 5420
+data/bowl/cda15ee9ad73f9d4661dc36b3dd991aa/coacd/decomposed.obj
+count: 2784
+total: 2784
+data/bowl/dd381b3459767f7b18f18cdcd25d1bbb/coacd/decomposed.obj
+count: 3502
+total: 3502
+data/bowl/bbf4b10b538c7d03bcbbc78f3e874841/coacd/decomposed.obj
+count: 6642
+total: 6642
+data/bowl/e30e5cbc54a62b023c143af07c12991a/coacd/decomposed.obj
+count: 4896
+total: 4896
+data/bowl/ed220bdfa852f00ba2c59a4d90e63212/coacd/decomposed.obj
+count: 4692
+total: 4692
+data/bowl/879a5c740b25ef5c7a88a2ad67bfd073/coacd/decomposed.obj
+count: 3886
+total: 3886
+data/bowl/a98b76254bcd32c05481b689f582aa44/coacd/decomposed.obj
+count: 2278
+total: 2278
+data/bowl/cfac22c8ca3339b83ce5cb00b21d9584/coacd/decomposed.obj
+count: 4372
+total: 4372
+data/bowl/77301246b265a4d3a538bf55f6b58cef/coacd/decomposed.obj
+count: 5280
+total: 5280
+data/bowl/45603bffc6a2866b5d1ac0d5489f7d84/coacd/decomposed.obj
+count: 6270
+total: 6270
+data/bowl/38d2122b2aa05f92e1b9b7b3765e2bea/coacd/decomposed.obj
+count: 5250
+total: 5250
+data/bowl/c25fd49b75c12ef86bbb74f0f607cdd/coacd/decomposed.obj
+count: 6460
+total: 6460
+data/bowl/36ca3b684dbb9c159599371049c32d38/coacd/decomposed.obj
+count: 3564
+total: 3564
+data/bowl/ff7c33db3598df342d88c45db31bc366/coacd/decomposed.obj
+count: 3706
+total: 3706
+data/bowl/d162f269bc5fb7da85df81f999944b5d/coacd/decomposed.obj
+count: 4286
+total: 4286
+data/bowl/aeec00d8dd6e196451a2ad3de1977657/coacd/decomposed.obj
+count: 4640
+total: 4640
+data/bowl/899af991203577f019790c8746d79a6f/coacd/decomposed.obj
+count: 5312
+total: 5312
+data/bowl/a042621b3378bc18a2c59a4d90e63212/coacd/decomposed.obj
+count: 4872
+total: 4872
+data/bowl/468b9b34d07eb9211c75d484f9069623/coacd/decomposed.obj
+count: 4686
+total: 4686
+data/bowl/154ab09c67b9d04fb4971a63df4b1d36/coacd/decomposed.obj
+count: 4494
+total: 4494
+data/bowl/e816066ac8281e2ecf70f9641eb97702/coacd/decomposed.obj
+count: 5734
+total: 5734
+data/bowl/24907349b2323824664b3b9b23ddfcbc/coacd/decomposed.obj
+count: 2522
+total: 2522
+data/bowl/5563324c9902f243a2c59a4d90e63212/coacd/decomposed.obj
+count: 2564
+total: 2564
+data/bowl/6494761a8a0461777cba8364368aa1d/coacd/decomposed.obj
+count: 4558
+total: 4558
+data/bowl/b4c43b75d951401631f299e87625dbae/coacd/decomposed.obj
+count: 5146
+total: 5146
+data/can/ace554442d7d530830612f5c0ef21eb8/coacd/decomposed.obj
+count: 1300
+total: 1300
+data/can/7b643c8136a720d9db4a36333be9155/coacd/decomposed.obj
+count: 1042
+total: 1042
+data/can/5bd768cde93ec1acabe235874aea9b9b/coacd/decomposed.obj
+count: 1354
+total: 1354
+data/can/56dfb6a30f498643bbf0c65ae96423ae/coacd/decomposed.obj
+count: 752
+total: 752
+data/can/a8d4a3b32149d3ae4f0b8af4571b1440/coacd/decomposed.obj
+count: 6634
+total: 6634
+data/can/6b2c6961ad0891936193d9e76bb15876/coacd/decomposed.obj
+count: 626
+total: 626
+data/can/af444e72a44e6db153c22afefaf6f2a4/coacd/decomposed.obj
+count: 1128
+total: 1128
+data/can/ebcbb82d158d68441f4c1c50f6e9b74e/coacd/decomposed.obj
+count: 2224
+total: 2224
+data/can/f6316c6702c49126193d9e76bb15876/coacd/decomposed.obj
+count: 708
+total: 708
+data/can/f390f6d6418135b69859d120d9976364/coacd/decomposed.obj
+count: 1406
+total: 1406
+data/can/4cc3601af4a09418b459058f42771eff/coacd/decomposed.obj
+count: 3136
+total: 3136
+data/can/5505ddb926a77c0f171374ea58140325/coacd/decomposed.obj
+count: 640
+total: 640
+data/can/fe6be0860c63aa1d8b2bf9f4ef8234/coacd/decomposed.obj
+count: 3634
+total: 3634
+data/can/59dc6215c5eeb1ee749d52b3e269018/coacd/decomposed.obj
+count: 2898
+total: 2898
+data/can/10c9a321485711a88051229d056d81db/coacd/decomposed.obj
+count: 1290
+total: 1290
+data/can/d511899945a400b183b4ef314c5735aa/coacd/decomposed.obj
+count: 4059
+total: 4060
+dif 1
+data/can/295be2a01cb9f29b716714dd1fd945b7/coacd/decomposed.obj
+count: 548
+total: 548
+data/can/147901ede668deb7d8d848cc867b0bc8/coacd/decomposed.obj
+count: 1426
+total: 1426
+data/can/e8c446c352b84189bc8d62498ee8e85f/coacd/decomposed.obj
+count: 874
+total: 874
+data/can/788094fbf1a523f768104c9df46104ca/coacd/decomposed.obj
+count: 790
+total: 790
+data/can/19fa6044dd31aa8e9487fa707cec1558/coacd/decomposed.obj
+count: 936
+total: 936
+data/can/f8fd565d00a7a6f9fef1ca8c5a3d2e08/coacd/decomposed.obj
+count: 684
+total: 684
+data/can/eac30c41aad2ff27c0ca8d7a07be3be/coacd/decomposed.obj
+count: 644
+total: 644
+data/can/4a6ba57aa2b47dfade1831cbcbd278d4/coacd/decomposed.obj
+count: 3202
+total: 3202
+data/can/408028e3bdd8d05b2d6c8e51365a5a87/coacd/decomposed.obj
+count: 1278
+total: 1278
+data/can/a7e0a5111234031fbd685fccc028124d/coacd/decomposed.obj
+count: 484
+total: 484
+data/can/adaaccc7f642dee1288ef234853f8b4d/coacd/decomposed.obj
+count: 2254
+total: 2254
+data/can/fcd14e7ad72bfa70471c65fdb52b88b2/coacd/decomposed.obj
+count: 1338
+total: 1338
+data/can/bf974687b678c66e93fb5c975e8de2b7/coacd/decomposed.obj
+count: 1012
+total: 1012
+data/can/29bc4b2e86b91d392e06d87a0fadf00/coacd/decomposed.obj
+count: 1996
+total: 1996
+data/can/7883b684806946276f056d414894e46d/coacd/decomposed.obj
+count: 3300
+total: 3300
+data/can/2eeefdfc9b70b89eeb153e9a37e99fa5/coacd/decomposed.obj
+count: 4720
+total: 4720
+data/can/2b08d2c26d1fce3afe34061aca66f702/coacd/decomposed.obj
+count: 1190
+total: 1190
+data/can/51f0b5ce9711f63bb15a1cf05bc3d210/coacd/decomposed.obj
+count: 3725
+total: 3726
+dif 1
+data/can/96387095255f7080b7886d94372e3c76/coacd/decomposed.obj
+count: 1138
+total: 1138
+data/can/d801d5b05f7d872341d8650f1ad40eb1/coacd/decomposed.obj
+count: 1080
+total: 1080
+data/can/3c8af6b0aeaf13c2abf4b6b757f4f768/coacd/decomposed.obj
+count: 1668
+total: 1668
+data/can/91483776d1930de7515bc9246d80fdcc/coacd/decomposed.obj
+count: 548
+total: 548
+data/can/f4108f92f3f12f99e3ecb6fd6ed1dd90/coacd/decomposed.obj
+count: 852
+total: 852
+data/can/d3e24e7712e1e82dece466fd8a3f2b40/coacd/decomposed.obj
+count: 3414
+total: 3414
+data/can/3a9041d7aa0b4b9ad9802f6365035049/coacd/decomposed.obj
+count: 1142
+total: 1142
+data/can/97ca02ee1e7b8efb6193d9e76bb15876/coacd/decomposed.obj
+count: 620
+total: 620
+data/can/d44cec47dbdead7ca46192d8b30882/coacd/decomposed.obj
+count: 2002
+total: 2002
+data/can/95ca52eaf8010a004cfa3ec30cb9847f/coacd/decomposed.obj
+count: 2992
+total: 2992
+data/can/91a524cc9c9be4872999f92861cdea7a/coacd/decomposed.obj
+count: 900
+total: 900
+data/can/100c5aee62f1c9b9f54f8416555967/coacd/decomposed.obj
+count: 5808
+total: 5808
+data/can/9effd38015b7e5ecc34b900bb2492e/coacd/decomposed.obj
+count: 1322
+total: 1322
+data/can/540cb2a72840ec1130612f5c0ef21eb8/coacd/decomposed.obj
+count: 2006
+total: 2006
+data/can/28c17225887339bd6193d9e76bb15876/coacd/decomposed.obj
+count: 770
+total: 770
+data/can/297b1ba8efcbb6a86128527957a7bb1/coacd/decomposed.obj
+count: 2838
+total: 2838
+data/can/e706cf452c4c124d77335fb90343dc9e/coacd/decomposed.obj
+count: 982
+total: 982
+data/can/fd40fa8939f5f832ae1aa888dd691e79/coacd/decomposed.obj
+count: 1016
+total: 1016
+data/can/7e9ea6ccb5a1689a3299d37e620d2f2/coacd/decomposed.obj
+count: 938
+total: 938
+data/can/343287cd508a798d38df439574e01b2/coacd/decomposed.obj
+count: 2285
+total: 2286
+dif 1
+data/can/b1980d6743b7a98c12a47018402419a2/coacd/decomposed.obj
+count: 952
+total: 952
+data/can/baaa4b9538caa7f06e20028ed3cb196e/coacd/decomposed.obj
+count: 682
+total: 682
+data/can/5c326273d61272ad4b6e06cda31f9bc6/coacd/decomposed.obj
+count: 2746
+total: 2746
+data/can/a70947df1f1490c2a81ec39fd9664e9b/coacd/decomposed.obj
+count: 2182
+total: 2182
+data/can/a7059f3bf782790654976319206e3c9c/coacd/decomposed.obj
+count: 656
+total: 656
+data/can/3fd8dae962fa3cc726df885e47f82f16/coacd/decomposed.obj
+count: 1010
+total: 1010
+data/can/b45716cd72f1e9172fbee880b9f634b4/coacd/decomposed.obj
+count: 1398
+total: 1398
+data/can/203c5e929d588d07c6754428123c8a7b/coacd/decomposed.obj
+count: 1440
+total: 1440
+data/can/926d45845c2be919f8cd8f969312dc1/coacd/decomposed.obj
+count: 3174
+total: 3174
+data/can/a087f6b5ea424ccc785f06f424b9d06/coacd/decomposed.obj
+count: 540
+total: 540
+data/can/b36902ae19ac77f2a89caedb1243a99/coacd/decomposed.obj
+count: 1052
+total: 1052
+data/can/6f2c06bb129e52be63ed57e35c972b4b/coacd/decomposed.obj
+count: 1360
+total: 1360
+data/can/17ef524ca4e382dd9d2ad28276314523/coacd/decomposed.obj
+count: 3680
+total: 3680
+data/can/fd73199d9e01927fffc14964b2380c14/coacd/decomposed.obj
+count: 736
+total: 736
+data/can/1beb16ca4f1fd6e42150a45ec52bcbd7/coacd/decomposed.obj
+count: 1832
+total: 1832
+data/can/4d4fc73864844dad1ceb7b8cc3792fd/coacd/decomposed.obj
+count: 2710
+total: 2710
+data/can/70446b4dc6649d0173c0d206b70af93c/coacd/decomposed.obj
+count: 2248
+total: 2248
+data/can/bb487f4b77abbef0a8d976d1bb073663/coacd/decomposed.obj
+count: 866
+total: 866
+data/can/3a7d8f866de1890bab97e834e9ba876c/coacd/decomposed.obj
+count: 3111
+total: 3112
+dif 1
+data/can/669033f9b748c292d18ceeb5427760e8/coacd/decomposed.obj
+count: 978
+total: 978
+data/can/ac0eafed7aa1719b297d1fadd26a7035/coacd/decomposed.obj
+count: 370
+total: 370
+data/can/637006720b7886e0c7a50f701fe65efe/coacd/decomposed.obj
+count: 3230
+total: 3232
+dif 2
+data/can/d53fd8769ff53b9a2daf5369a15791ca/coacd/decomposed.obj
+count: 2934
+total: 2934
+data/can/11c785813efc4b8630eaaf40a8a562c1/coacd/decomposed.obj
+count: 4744
+total: 4744
+data/can/85fa7911905e932bf485d100eb31d589/coacd/decomposed.obj
+count: 2106
+total: 2106
+data/can/3703ada8cc31df4337b00c4c2fbe82aa/coacd/decomposed.obj
+count: 2872
+total: 2872
+data/can/bea7315d4410d0ce83b1cdcee646c9a4/coacd/decomposed.obj
+count: 704
+total: 704
+data/can/7bd05573c09fb0c2af39ccaab9314b14/coacd/decomposed.obj
+count: 1708
+total: 1708
+data/can/fac6341f9e5bfddaf5aaab5ed17143d6/coacd/decomposed.obj
+count: 1538
+total: 1538
+data/can/efa4c58192cc5cf89e7b86262150f/coacd/decomposed.obj
+count: 1364
+total: 1364
+data/can/e928ebedb376404f8e5478c8425d418a/coacd/decomposed.obj
+count: 722
+total: 722
+data/can/129880fda38f3f2ba1ab68e159bfb347/coacd/decomposed.obj
+count: 1644
+total: 1644
+data/can/c4bce3dc44c66630282f9cd3f45eaa2a/coacd/decomposed.obj
+count: 716
+total: 716
+data/can/f4ad0b7f82c36051f51f77a6d7299806/coacd/decomposed.obj
+count: 1818
+total: 1818
+data/can/ac66fb0ff0d50368ced499bff9a86355/coacd/decomposed.obj
+count: 2560
+total: 2560
+data/can/dc815e056c71e2ed7c8ed5da8582ce91/coacd/decomposed.obj
+count: 1304
+total: 1304
+data/can/38dd2a8d2c984e2b6c1cd53dbc9f7b8e/coacd/decomposed.obj
+count: 2396
+total: 2396
+data/can/d052c17866cf5cf8387e8ce4aad01a52/coacd/decomposed.obj
+count: 2546
+total: 2546
+data/can/6a703fd2b09f50f347df6165146d5bbd/coacd/decomposed.obj
+count: 912
+total: 912
+data/can/be67418a10003cc9eae3efbc9dbeea/coacd/decomposed.obj
+count: 1828
+total: 1828
+data/can/990a058fbb51c655d773a8448a79e14c/coacd/decomposed.obj
+count: 1636
+total: 1636
+data/can/25c253b2e40b6f4ea61649b05d63e9bb/coacd/decomposed.obj
+count: 5064
+total: 5064
+data/can/4961c651fdb6b45fa57e04ecfc2d7abd/coacd/decomposed.obj
+count: 2826
+total: 2826
+data/can/9b1f0ddd23357e01a81ec39fd9664e9b/coacd/decomposed.obj
+count: 2492
+total: 2492
+data/can/e532d6bd597d4e91e3e4737f6033f0f8/coacd/decomposed.obj
+count: 536
+total: 536
+data/can/f755800334fcb49b450911b585bf4df8/coacd/decomposed.obj
+count: 936
+total: 936
+data/can/a5bab9546d6a1baa33ff264b2ec3aaa9/coacd/decomposed.obj
+count: 1728
+total: 1728
+data/can/52e295024593705fb00c487926b62c9/coacd/decomposed.obj
+count: 670
+total: 670
+data/can/60f4012b5336902b30612f5c0ef21eb8/coacd/decomposed.obj
+count: 1160
+total: 1160
+data/can/b6c4d78363d965617cb2a55fa21392b7/coacd/decomposed.obj
+count: 2692
+total: 2692
+data/can/8cf26f6912f4a9e34a045a96d74810ea/coacd/decomposed.obj
+count: 2552
+total: 2552
+data/can/3fd196c22459cc66c8687ff9b0b4e4ac/coacd/decomposed.obj
+count: 1136
+total: 1136
+data/can/70172e6afe6aff7847f90c1ac631b97f/coacd/decomposed.obj
+count: 1370
+total: 1370
+data/can/90d40359197c648b23e7e4bd2944793/coacd/decomposed.obj
+count: 1078
+total: 1078
+data/jar/39a8179c80a38ee130612f5c0ef21eb8/coacd/decomposed.obj
+count: 1826
+total: 1826
+data/jar/c0d6cd0537d0fcc8235e3c816d887b3/coacd/decomposed.obj
+count: 8252
+total: 8252
+data/jar/d68da52ed2de0e7bc5beea20858a99d5/coacd/decomposed.obj
+count: 11121
+total: 11122
+dif 1
+data/jar/ce641a7a7b0cfe1ad85aa63241192dd1/coacd/decomposed.obj
+count: 1302
+total: 1302
+data/jar/189996124312ea7430612f5c0ef21eb8/coacd/decomposed.obj
+count: 1618
+total: 1618
+data/jar/8029c2527230111aad1d789f3b2120d0/coacd/decomposed.obj
+count: 6163
+total: 6164
+dif 1
+data/jar/76677da63039c6d9e6a735b744b69aa4/coacd/decomposed.obj
+count: 5377
+total: 5378
+dif 1
+data/jar/6f43bf97b213b888ca2ed12df13a916a/coacd/decomposed.obj
+count: 6171
+total: 6172
+dif 1
+data/jar/5c1128439ea33c8398910e50f05b8001/coacd/decomposed.obj
+count: 6144
+total: 6144
+data/jar/889b2e6dc1b409cd5e29ce2c9d37b952/coacd/decomposed.obj
+count: 1352
+total: 1352
+data/jar/807620fed80ead9672160feea2b67fe8/coacd/decomposed.obj
+count: 6828
+total: 6828
+data/jar/6519a8929afa98739de171e0db680498/coacd/decomposed.obj
+count: 4070
+total: 4070
+data/jar/d67ac9e710ba445089035c25f0dfeb63/coacd/decomposed.obj
+count: 4392
+total: 4392
+data/jar/c8d8974642d4e88e906c240b881af04f/coacd/decomposed.obj
+count: 7273
+total: 7274
+dif 1
+data/jar/e42b51de027eba748b9db7e7b88ffbb9/coacd/decomposed.obj
+count: 2734
+total: 2734
+data/jar/afce514f25812205c9f016d57db96408/coacd/decomposed.obj
+count: 818
+total: 818
+data/jar/cb451e92ce5a422c9095fe1213108032/coacd/decomposed.obj
+count: 4704
+total: 4704
+data/jar/c9f017cf330911ab1fc611122dc20c0a/coacd/decomposed.obj
+count: 10102
+total: 10102
+data/jar/b67d4f4361affd4d664b3b9b23ddfcbc/coacd/decomposed.obj
+count: 978
+total: 978
+data/jar/c331b4c98868bfb529a42a0444436860/coacd/decomposed.obj
+count: 2486
+total: 2486
+data/jar/6f2c815565cfdb97a1c637e821f12a67/coacd/decomposed.obj
+count: 8776
+total: 8776
+data/jar/281530bc7fbb122f30612f5c0ef21eb8/coacd/decomposed.obj
+count: 1008
+total: 1008
+data/jar/9d1a07991391ecec6b7154919b02cbec/coacd/decomposed.obj
+count: 16941
+total: 16942
+dif 1
+data/jar/8e88eb643cde1363ba5342d638d0c267/coacd/decomposed.obj
+count: 5204
+total: 5204
+data/jar/de673ddf9df03b8278cf1a714198918/coacd/decomposed.obj
+count: 3412
+total: 3412
+data/jar/7becf46a6f6428404bf49568516d5f0e/coacd/decomposed.obj
+count: 2980
+total: 2980
+data/jar/64a0985a86bbead9fe9d8ee1a924ac2e/coacd/decomposed.obj
+count: 2292
+total: 2292
+data/jar/c81fa64321c8d49fb9be450193b1790b/coacd/decomposed.obj
+count: 6848
+total: 6848
+data/jar/86fc09510df14f9d9f53fb212867331e/coacd/decomposed.obj
+count: 5920
+total: 5920
+data/jar/c637b5e2387eec7421aff7e1274fec72/coacd/decomposed.obj
+count: 8904
+total: 8904
+data/jar/447730fef97d1f5a89035c25f0dfeb63/coacd/decomposed.obj
+count: 5632
+total: 5632
+data/jar/6bc426e7226f6f22362d7fcfd32ff15d/coacd/decomposed.obj
+count: 7305
+total: 7306
+dif 1
+data/jar/353709f2c6862ac56bc258c0f0234be0/coacd/decomposed.obj
+count: 8926
+total: 8926
+data/jar/5c589d9495c87d7da2fcca81c767066f/coacd/decomposed.obj
+count: 3468
+total: 3468
+data/jar/40f0d91382abe04b2396ca3dd50467ab/coacd/decomposed.obj
+count: 3562
+total: 3562
+data/jar/c5fda0e7168d23ed89035c25f0dfeb63/coacd/decomposed.obj
+count: 6388
+total: 6388
+data/jar/5e914dd726313181b1b4b514128408b0/coacd/decomposed.obj
+count: 6215
+total: 6216
+dif 1
+data/jar/ca00e43903812f9bf8f2e9a6f7085339/coacd/decomposed.obj
+count: 4468
+total: 4468
+data/jar/6db6c54e6967dfea3481efcd727db3ad/coacd/decomposed.obj
+count: 6438
+total: 6438
+data/jar/4d53bcb8348292d4b4be5695ea899000/coacd/decomposed.obj
+count: 7432
+total: 7432
+data/jar/e0af9e8ee2cf2a82813fb41783e5db30/coacd/decomposed.obj
+count: 4730
+total: 4730
+data/jar/f47da3a419cdf600e01d7dc978602402/coacd/decomposed.obj
+count: 5044
+total: 5044
+data/jar/2da4d88435eaab6aa7f0dc86456c3021/coacd/decomposed.obj
+count: 10028
+total: 10028
+data/jar/abf5f73c5440f78c20d37e3fe8c3f09/coacd/decomposed.obj
+count: 9012
+total: 9012
+data/jar/e0a62f7d9bb5cfea36b0f2a1430e993a/coacd/decomposed.obj
+count: 5888
+total: 5888
+data/jar/d4b38a6a694cc2bf55f46d55537192b6/coacd/decomposed.obj
+count: 9514
+total: 9514
+data/jar/5543edf23df6527530612f5c0ef21eb8/coacd/decomposed.obj
+count: 1872
+total: 1872
+data/jar/7b0b4571876644fcef76898f881b76a/coacd/decomposed.obj
+count: 4826
+total: 4826
+data/jar/489317571832ea4c15d3518b43b3bc22/coacd/decomposed.obj
+count: 1952
+total: 1952
+data/jar/a4f56aa9a291cffb80067e3fdc6db24c/coacd/decomposed.obj
+count: 2154
+total: 2154
+data/jar/bbb981cec11e59771fc611122dc20c0a/coacd/decomposed.obj
+count: 7458
+total: 7458
+data/jar/2886e2026ed9da084b3c42e318f3affc/coacd/decomposed.obj
+count: 5598
+total: 5598
+data/jar/bacb6b671e5904d8274d4393e80e99fa/coacd/decomposed.obj
+count: 3962
+total: 3962
+data/jar/4996f1c0120f4c62ab361b6be63163da/coacd/decomposed.obj
+count: 9566
+total: 9566
+data/jar/324c9045843b9470d29670d38a4c9e7e/coacd/decomposed.obj
+count: 3172
+total: 3172
+data/jar/a1fae2bdac896ab83a75e6d000e08290/coacd/decomposed.obj
+count: 7720
+total: 7720
+data/jar/7d71fc51ce793a44befd8bfd61b07f5/coacd/decomposed.obj
+count: 6107
+total: 6108
+dif 1
+data/jar/dddd30f41cd6543e25e65d4b5f3b6456/coacd/decomposed.obj
+count: 6394
+total: 6394
+data/jar/244399287185e74d8ca4aeb5e3b33af7/coacd/decomposed.obj
+count: 5040
+total: 5040
+data/jar/a217a3505ef6b67de6597d391ab6fcc1/coacd/decomposed.obj
+count: 5839
+total: 5840
+dif 1
+data/jar/8e7b2732b637559976fd405e95f98511/coacd/decomposed.obj
+count: 2564
+total: 2564
+data/jar/c42115bcac36e3569f8c3d2002c77ddb/coacd/decomposed.obj
+count: 4894
+total: 4896
+dif 2
+data/jar/c2bd95766b5cade2621a1668752723db/coacd/decomposed.obj
+count: 7398
+total: 7398
+data/jar/a99b8679b072b0cf9b6e5e087210d348/coacd/decomposed.obj
+count: 3320
+total: 3320
+data/jar/718d999b71ac3d28c33cda78d407d98a/coacd/decomposed.obj
+count: 1456
+total: 1456
+data/jar/c7e207bcb48a699fd0a0c43e4971be14/coacd/decomposed.obj
+count: 7562
+total: 7562
+data/jar/9eb7d0643394a33df633d7643fec578c/coacd/decomposed.obj
+count: 476
+total: 476
+data/jar/ee07000195ef7c93e89c405d853359af/coacd/decomposed.obj
+count: 6415
+total: 6416
+dif 1
+data/jar/4b35db459bc209bf5d878ba9ec3c0d6a/coacd/decomposed.obj
+count: 5269
+total: 5272
+dif 3
+data/jar/fa9e6aa9d67d5329e5c3c7284848bbfe/coacd/decomposed.obj
+count: 4917
+total: 4918
+dif 1
+data/jar/d9ec6c788995408997e88473b28104/coacd/decomposed.obj
+count: 4462
+total: 4462
+data/jar/c6ffb2891c1ea743ad8827e8f4f151e6/coacd/decomposed.obj
+count: 2814
+total: 2814
+data/jar/aaec691558f7bdd05ca1f314f1afc186/coacd/decomposed.obj
+count: 1336
+total: 1336
+data/jar/a88577a2ecffa8e858323e30458acc42/coacd/decomposed.obj
+count: 2696
+total: 2696
+data/jar/76ffe67d67948975464e3094da7d844a/coacd/decomposed.obj
+count: 4562
+total: 4562
+data/jar/a5db4bacbe009f2ef51f77a6d7299806/coacd/decomposed.obj
+count: 5158
+total: 5158
+data/jar/3a6e1c3f0755d58d774ba10f0bcc178a/coacd/decomposed.obj
+count: 10530
+total: 10530
+data/jar/198a821d967679684b3c42e318f3affc/coacd/decomposed.obj
+count: 11514
+total: 11514
+data/jar/fcaab68d0507e3255576bbe3889cc2ca/coacd/decomposed.obj
+count: 7090
+total: 7090
+data/jar/6488a88563cb1f3b2dcb7217e1ed4196/coacd/decomposed.obj
+count: 2154
+total: 2154
+data/jar/b5f802103edd92d38c6cecb99943f941/coacd/decomposed.obj
+count: 4323
+total: 4324
+dif 1
+data/jar/7def6a25e235f2deaf0245cb9d7ad8ee/coacd/decomposed.obj
+count: 950
+total: 950
+data/jar/79a582343eece9c645c7a8e7c70da8b1/coacd/decomposed.obj
+count: 4050
+total: 4050
+data/jar/7333b1ae767c03db2396ca3dd50467ab/coacd/decomposed.obj
+count: 8342
+total: 8342
+data/jar/23f305e2ca3a3007ee106795de609335/coacd/decomposed.obj
+count: 6864
+total: 6864
+data/jar/a6d49ec1234f2465f84f031022f95405/coacd/decomposed.obj
+count: 7274
+total: 7274
+data/jar/9a5cb53a2858225e72a5c49c981e6593/coacd/decomposed.obj
+count: 7664
+total: 7664
+data/jar/57693fd44e597bd8fed792cc021b4e66/coacd/decomposed.obj
+count: 4720
+total: 4720
+data/jar/3ce0e5906686042c939163818f3c3007/coacd/decomposed.obj
+count: 488
+total: 488
+data/jar/20de70652a72eb4ae27790b0ec8671f7/coacd/decomposed.obj
+count: 9250
+total: 9252
+dif 2
+data/jar/24f615dd07dab76cc6040c0e6de6a84d/coacd/decomposed.obj
+count: 2270
+total: 2270
+data/jar/7b97f7b6ba604173fec8ec00010848b3/coacd/decomposed.obj
+count: 5074
+total: 5074
+data/jar/90c112fd862cfca1cb497d0953a32f5/coacd/decomposed.obj
+count: 5732
+total: 5732
+data/jar/7def3eec9ddc24d7a1c637e821f12a67/coacd/decomposed.obj
+count: 2178
+total: 2178
+data/jar/85ad6844a52ec08cdf7d84aa9195db06/coacd/decomposed.obj
+count: 6731
+total: 6732
+dif 1
+data/jar/41dc952ae902bb2d2a087337e55e3e2e/coacd/decomposed.obj
+count: 9568
+total: 9568
+data/jar/ee3b373aee74624ef228e31b813ebbce/coacd/decomposed.obj
+count: 11122
+total: 11122
+data/jar/78c709102ee8d89ab7d0f3d89bbac230/coacd/decomposed.obj
+count: 2430
+total: 2430
+data/jar/1dde51480f0c5474a38859fd71bee28c/coacd/decomposed.obj
+count: 5368
+total: 5368
+data/jar/bcf5a4b764ddeac759f9892433e1b1f4/coacd/decomposed.obj
+count: 2220
+total: 2220
+data/jar/7bb71bbabeacfe9f27936e29850f1fad/coacd/decomposed.obj
+count: 2674
+total: 2674
+data/jar/28938abdb2114e53bbc7a6acbd8f058b/coacd/decomposed.obj
+count: 6450
+total: 6450
+data/jar/f0612de90c1fe7d430612f5c0ef21eb8/coacd/decomposed.obj
+count: 2554
+total: 2554
+data/jar/ed3c75975804636e34a8988fdcee4fde/coacd/decomposed.obj
+count: 1416
+total: 1416
+data/jar/1c73c8ff52c31667c8724d5673a063a6/coacd/decomposed.obj
+count: 4866
+total: 4866
+data/jar/546025d656c166562887a88b1b446ef8/coacd/decomposed.obj
+count: 8254
+total: 8254
+data/jar/7b6d5a7a902ca441529e78b4656a338/coacd/decomposed.obj
+count: 1192
+total: 1192
+data/jar/7a9c65728f8baa6da706b53616da968b/coacd/decomposed.obj
+count: 8872
+total: 8872
+data/jar/acf2697f5c1cfe9b89035c25f0dfeb63/coacd/decomposed.obj
+count: 3718
+total: 3718
+data/jar/4b16d8e3aa65a107e9814058bbcd7b44/coacd/decomposed.obj
+count: 1614
+total: 1614
+data/jar/f93f2a0590a805da30f549f12038e49a/coacd/decomposed.obj
+count: 5836
+total: 5836
+data/jar/682de86ee8578339490ad276cd2af3a4/coacd/decomposed.obj
+count: 3122
+total: 3122
+data/jar/c795ed7d374e893964558a1c6a2a9f11/coacd/decomposed.obj
+count: 6677
+total: 6678
+dif 1
+data/jar/1666ce5ced647ed25d878ba9ec3c0d6a/coacd/decomposed.obj
+count: 7012
+total: 7012
+data/jar/9e8595c3bbb0a5d0ba5342d638d0c267/coacd/decomposed.obj
+count: 1458
+total: 1458
+data/jar/72cd871f8335f911fe9e40361c13f085/coacd/decomposed.obj
+count: 6324
+total: 6324
+data/jar/6d652a95363bb682b692b490d9871ff1/coacd/decomposed.obj
+count: 5672
+total: 5672
+data/jar/9097ce398b9700a27e561f865dc44fc5/coacd/decomposed.obj
+count: 5750
+total: 5750
+data/jar/1a1905d6da94d9c7561ca0447e446f39/coacd/decomposed.obj
+count: 3756
+total: 3756
+data/jar/396534e7ea5b33c482db9fca4b68095/coacd/decomposed.obj
+count: 7052
+total: 7052
+data/jar/dd37047caaffb379f9215f842248bc25/coacd/decomposed.obj
+count: 5886
+total: 5886
+data/jar/b59f693b45f636d54c6c80caaf15808d/coacd/decomposed.obj
+count: 5260
+total: 5260
+data/jar/1a01c2d7705193b4917cb569753af492/coacd/decomposed.obj
+count: 8624
+total: 8624
+data/jar/81a4a5f10f2f759fcee8a4975a4efb00/coacd/decomposed.obj
+count: 3408
+total: 3408
+data/jar/81cc70eb5ec9e3c75706d1c54190f27a/coacd/decomposed.obj
+count: 5688
+total: 5688
+data/jar/b55c349c1a770df62edec63e41367782/coacd/decomposed.obj
+count: 1106
+total: 1106
+data/jar/b2e502425dc3f07bfe4f69210ea5cdca/coacd/decomposed.obj
+count: 2120
+total: 2120
+data/jar/8661762e0da6a8a29d3d767e1bc88d65/coacd/decomposed.obj
+count: 7222
+total: 7222
+data/jar/45ba72a5187c5fd7b9c6deef486a7d8/coacd/decomposed.obj
+count: 1442
+total: 1442
+data/jar/30b7bc199de66fc57eaeab1f0c9120b7/coacd/decomposed.obj
+count: 11700
+total: 11700
+data/jar/2ddd2ef6c8ed56afbfec1075852e48f/coacd/decomposed.obj
+count: 1482
+total: 1482
+data/jar/c1be3d580b4088bf4cc80585c0d3d970/coacd/decomposed.obj
+count: 5200
+total: 5200
+data/jar/5cf4d1f50bc8b27517b73b4b5f74e5b2/coacd/decomposed.obj
+count: 1768
+total: 1768
+data/jar/dc9eca5831f9d6ad230584014222e685/coacd/decomposed.obj
+count: 9570
+total: 9570
+data/jar/ee10db30b91b9683f9215f842248bc25/coacd/decomposed.obj
+count: 8186
+total: 8186
+data/jar/d73ff526d74baad2ce891e9ba482e12b/coacd/decomposed.obj
+count: 3246
+total: 3246
+data/jar/5c55279aabef108425b2c60a44b454aa/coacd/decomposed.obj
+count: 2996
+total: 2996
+data/jar/b61141090612ac3ab361b6be63163da/coacd/decomposed.obj
+count: 5996
+total: 5996
+data/jar/bd3408700fb963b436b0f2a1430e993a/coacd/decomposed.obj
+count: 2949
+total: 2950
+dif 1
+data/jar/3ca8bda43d9d5775499773b0b5888ca6/coacd/decomposed.obj
+count: 10040
+total: 10040
+data/jar/de61c6f2300249f45dc9e54641a3f5bb/coacd/decomposed.obj
+count: 894
+total: 894
+data/jar/8a970ddede52c604eec3bf885b5e46e/coacd/decomposed.obj
+count: 5883
+total: 5884
+dif 1
+data/jar/dde696b23a0fa0d01529e78b4656a338/coacd/decomposed.obj
+count: 4742
+total: 4742
+data/jar/8b9432e22e801493ce364511e87f52b0/coacd/decomposed.obj
+count: 3721
+total: 3722
+dif 1
+data/jar/e4c871d1d5e3c49844b2fa2cac0778f5/coacd/decomposed.obj
+count: 15480
+total: 15480
+data/jar/483b9263192747a3a4c322790a683350/coacd/decomposed.obj
+count: 1702
+total: 1702
+data/jar/2d9fae9136d41ee2b978cf07d1cb130b/coacd/decomposed.obj
+count: 5710
+total: 5710
+data/jar/852e1bca3ec5fdeb5dc9e54641a3f5bb/coacd/decomposed.obj
+count: 1418
+total: 1418
+data/jar/af61c129521b9a36ad56360b1d2e97b8/coacd/decomposed.obj
+count: 3546
+total: 3546
+data/jar/2d5cccc84167c652b5918a323a1320cb/coacd/decomposed.obj
+count: 19509
+total: 19512
+dif 3
+data/jar/146f6702601f9c5d8bb41b82b15c6ac/coacd/decomposed.obj
+count: 5681
+total: 5682
+dif 1
+data/jar/e51c76a9d10593a9aa5b514b364ab62b/coacd/decomposed.obj
+count: 3752
+total: 3752
+data/jar/32dc55c3e945384dbc5e533ab711fd24/coacd/decomposed.obj
+count: 2960
+total: 2960
+data/jar/e4a868a10e10dda4befcf48d5b3e17b5/coacd/decomposed.obj
+count: 4460
+total: 4460
+data/jar/306e447225c6976082db9fca4b68095/coacd/decomposed.obj
+count: 8108
+total: 8108
+data/jar/1168c9e9db2c1c5066639e628d6519b6/coacd/decomposed.obj
+count: 7903
+total: 7904
+dif 1
+data/jar/b4d2dc40f931fa5e664b3b9b23ddfcbc/coacd/decomposed.obj
+count: 4388
+total: 4388
+data/jar/6e97b8fd720790455ca1f314f1afc186/coacd/decomposed.obj
+count: 7703
+total: 7704
+dif 1
+data/jar/2a7c0beb84e99d6636b0f2a1430e993a/coacd/decomposed.obj
+count: 2562
+total: 2562
+data/jar/ac3fa82107f01502cba92cca5bb025de/coacd/decomposed.obj
+count: 12697
+total: 12698
+dif 1
+data/jar/133dc38c1316d9515dc3653f8341633a/coacd/decomposed.obj
+count: 6912
+total: 6912
+data/jar/7213aae6cdadc227d680196133d8b70f/coacd/decomposed.obj
+count: 3451
+total: 3452
+dif 1
+data/jar/1a619680edc5c461a95e4741ba1b4acf/coacd/decomposed.obj
+count: 12555
+total: 12556
+dif 1
+data/jar/e81b2e879acd96f5664b3b9b23ddfcbc/coacd/decomposed.obj
+count: 7884
+total: 7884
+data/jar/ace45c3e1de6058ee694be5819d751ba/coacd/decomposed.obj
+count: 5197
+total: 5198
+dif 1
+data/jar/dc39b65c9ed54544debefefb2e8c0245/coacd/decomposed.obj
+count: 10467
+total: 10468
+dif 1
+data/jar/48eaa8465573a112bba080e9e0b1ed91/coacd/decomposed.obj
+count: 3112
+total: 3112
+data/jar/c5beb87c12986f859f3323e6dbd51308/coacd/decomposed.obj
+count: 16490
+total: 16492
+dif 2
+data/jar/b22a31918c21981a275d003e423c59ba/coacd/decomposed.obj
+count: 5684
+total: 5684
+data/jar/9b77a0f168b2b8ea620c0ff8940a6989/coacd/decomposed.obj
+count: 1232
+total: 1232
+data/jar/585c1079643d859db2236bb2a62ecfdf/coacd/decomposed.obj
+count: 14852
+total: 14852
+data/jar/97199437c2b3acb664cc17fe2c6413a/coacd/decomposed.obj
+count: 2552
+total: 2552
+data/jar/fbaee96700018ab3835b141fda2da5ed/coacd/decomposed.obj
+count: 5728
+total: 5728
+data/jar/d9a35f5bcc527fb3a982675e6ec522a0/coacd/decomposed.obj
+count: 490
+total: 490
+data/jar/aaa87a2a3a5b8ab4a156590b19c3013b/coacd/decomposed.obj
+count: 5956
+total: 5956
+data/jar/7dcc9324c5c23029bc54d7012755d50c/coacd/decomposed.obj
+count: 2876
+total: 2876
+data/jar/2ff5347d6ee079855337cdc4b758988c/coacd/decomposed.obj
+count: 11615
+total: 11616
+dif 1
+data/jar/a886fcd1a2b625208d1dabf86742ec3c/coacd/decomposed.obj
+count: 6443
+total: 6444
+dif 1
+data/jar/3074ccca5d98c71c197894d64e83a327/coacd/decomposed.obj
+count: 250
+total: 250
+data/jar/58757fb09681ea3236b0f2a1430e993a/coacd/decomposed.obj
+count: 1162
+total: 1164
+dif 2
+data/jar/c0d3656a60fc5e3b16acbecd8bf6925d/coacd/decomposed.obj
+count: 11271
+total: 11272
+dif 1
+data/jar/49943fa341bd0fc86bc258c0f0234be0/coacd/decomposed.obj
+count: 6124
+total: 6124
+data/jar/420254a2489912c13f8d8f0f2ad2ee2/coacd/decomposed.obj
+count: 6115
+total: 6116
+dif 1
+data/jar/8e5595181e9eef7d82ec48ff3a4fe07c/coacd/decomposed.obj
+count: 7970
+total: 7970
+data/jar/3834ca6d4c3fda9d5b2ecd212557fda0/coacd/decomposed.obj
+count: 5820
+total: 5820
+data/jar/aea1a8fee02c011db8183a4a81361b94/coacd/decomposed.obj
+count: 1164
+total: 1164
+data/jar/59deef87601c4a86664b3b9b23ddfcbc/coacd/decomposed.obj
+count: 3730
+total: 3730
+data/jar/4cd2f74d052b561952e2d18963a75b4d/coacd/decomposed.obj
+count: 1402
+total: 1402
+data/jar/971d8456fc6fde71cf644619c59e0de/coacd/decomposed.obj
+count: 4462
+total: 4462
+data/jar/276bff32316ddd3eec0dc003f0209134/coacd/decomposed.obj
+count: 5794
+total: 5794
+data/jar/1fc8104630b00416c151419181ef256/coacd/decomposed.obj
+count: 6408
+total: 6408
+data/jar/770f2adb9756b792c9f016d57db96408/coacd/decomposed.obj
+count: 

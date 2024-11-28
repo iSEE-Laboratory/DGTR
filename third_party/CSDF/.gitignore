@@ -1,0 +1,12 @@
+build/
+csdf.egg-info
+*.so
+*.egg
+.eggs/
+__pycache__
+
+# pip cache
+.cache
+
+# data
+data

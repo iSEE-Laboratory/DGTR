@@ -1,0 +1,30 @@
+data:
+  train:
+    data_path: ./data/dexgrasp_train.h5
+    batch_size: 1
+    num_workers: 1
+  test:
+    data_path: ./data/dexgrasp_test.h5
+    batch_size: 1
+    num_workers: 1
+
+obj_mesh_root: ./data/DexGraspNet/meshdata
+
+hand_model:
+  mjcf_path: ./data/mjcf/shadow_hand.xml
+  mesh_path: ./data/mjcf/meshes
+  n_surface_points: 1024
+  contact_points_path: ./data/mjcf/contact_points.json
+  penetration_points_path: ./data/mjcf/penetration_points.json
+model:
+  aux_outputs: false
+  checkpoint_path: None
+
+q1:
+  lambda_torque: 10
+  m: 8
+  mu: 1
+  nms: true
+  thres_contact: 0.01
+  thres_pen: 0.005
+  thres_tpen: 0.01

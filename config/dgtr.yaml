@@ -1,0 +1,126 @@
+device: &device cuda:0
+rotation_type: &rotation_type quaternion
+rotation_dim: &rotation_dim 4
+
+ncols: 120
+epochs: &epochs 100
+print_freq: 500
+save_root: ./Experiments/test
+save_top_n: 100
+log_dir: logs
+seed: null
+assignments: dynamic
+
+data:
+  name: dgnfull
+  train:
+    data_root: &data_root ./data/DexGraspNet
+    data_path: ./data/dexgrasp_train.h5
+    num_points: &num_points 4096
+    rotation_type: *rotation_type
+    batch_size: 32
+    num_workers: 8
+    num_gt: &num_gt 999999
+    assignment: null
+  val:
+    data_root: *data_root
+    data_path: ./data/dexgrasp_test.h5
+    num_points: *num_points
+    rotation_type: *rotation_type
+    batch_size: 32
+    num_workers: 8
+    num_gt: *num_gt
+
+model:
+  aux_outputs: true
+  relative: false
+  name: dgtr
+  encoder:
+    name: pointnet2
+    layer1:
+      npoint: 1024
+      radius_list: [null]
+      nsample_list: [32]
+      mlp_list: [0, 64, 64, 128]
+    layer2:
+      npoint: 512
+      radius_list: [null]
+      nsample_list: [16]
+      mlp_list: [128, 128, 128, 256]
+    layer3:
+      npoint: 128
+      radius_list: [null]
+      nsample_list: [8]
+      mlp_list:
+        - 256
+        - 256
+        - 256
+        - &encoder_out 512
+    use_xyz: true
+    normalize_xyz: false
+  decoder:
+    name: GraspQ
+    norm_func: bn
+    position_embedding: fourier
+    query_embedding_name: learning
+    enc_embedding_name: learning
+    encoder_out_dim: *encoder_out
+    encoder_to_decoder:
+      hidden_dims: [*encoder_out, *encoder_out]
+    dim: &decoder_dim 256
+    num_heads: 4
+    ffn_dim: 256
+    dropout_prob: 0.1
+    num_layers: 4
+    num_queries: &num_queries 16
+    init_hand:
+      embed_mlp:
+        rotation_dim: *rotation_dim
+        hidden_dims: [64, 128, 256]
+      rotation_type: *rotation_type
+      distance_lower: 0.2
+      distance_upper: 0.3
+      theta_lower: -0.5235987755982988  # -pi / 6
+      theta_upper: 0.5235987755982988  # pi / 6
+      jitter_strength: 0.1
+  mlp_heads:
+    input_dim: *decoder_dim
+    dropout_prob: 0.3
+    heads:
+      qpos: 22
+      rotation: *rotation_dim
+      translation: 3
+
+  criterion:
+    hand_model:
+      mjcf_path: ./data/mjcf/shadow_hand.xml
+      mesh_path: ./data/mjcf/meshes
+      n_surface_points: 1024
+      contact_points_path: ./data/mjcf/contact_points.json
+      penetration_points_path: ./data/mjcf/penetration_points.json
+    cost_weights:
+      hand_mesh: 0.0
+      qpos: 1.0
+      translation: 2.0
+      rotation: 2.0
+    loss_weights:
+      translation: 10.0
+      qpos: 10.0
+      rotation: 10.0
+      hand_chamfer: 0.0
+      distance: 0.0
+      obj_penetration: 1.0
+      self_penetration: 10.0
+
+  device: *device
+  rotation_type: *rotation_type
+
+optimizer:
+  name: adam
+  lr: 2.0e-4
+  weight_decay: 5.0e-6
+
+scheduler:
+  name: cosine
+  t_max: 100
+  min_lr: 2.0e-5
