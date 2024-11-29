@@ -64,6 +64,16 @@ pip install rtree
 ```shell
 pip install setuptools==59.5.0
 ```
+## Data Preparation
+1. We pre-sample the object point clouds from [DexGraspNet](https://github.com/PKU-EPIC/DexGraspNet) and save them as h5 files to accelerate data processing. The training and testing h5 files can be downloaded from [Google Drive](https://drive.google.com/drive/folders/1RNtPrmE5TmfBmFzbtWYz261mEd7LZ0xT?usp=drive_link). Alternatively, you can load the object .obj files directly and sample the point clouds yourself.
+
+2. The directory should be as follows:
+```
+.data/             
+├── mjcf/         
+├── dexgrasp_train.h5   
+└── dexgrasp_test.h5   
+```
 
 
 # Usage
@@ -103,6 +113,7 @@ python ./tools/evaluate.py -r <the path of raw_results.json> --gpus <GPU_ID>
 ```
 
 ## TODO
+- [ ] Release the code of evaluation in Issac Gym 
 - [ ] Release the code of AB-TTA
 - [x] Release the training code of DGTR
 - [x] Release the inference code of DGTR
