@@ -206,7 +206,7 @@ if __name__ == "__main__":
         results = json.load(rf)
 
 
-    # results = results[::6]
+    # results = results[::100]
     temp_result_path = osp.join(results_dir, "_temp_result.json")
     temp_results = results
     if partial_scales:

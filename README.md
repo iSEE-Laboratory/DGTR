@@ -93,7 +93,7 @@ CUDA_VISIBLE_DEVICES="0" python train.py \
 3. Train DGTR in Static Matching Penetration Training phase for 5 epochs.
 ```
 CUDA_VISIBLE_DEVICES="0" python train.py \
---train_cfg config/dgtr.yaml \
+--train_cfg config/dgtr_pen.yaml \
 -r \
 -c <checkpoint of epoch 20> \
 --override assignments \"static\" data.train.assignment \"./Experiments/dgtr/assignment_epoch_15.json\"
@@ -112,11 +112,11 @@ python ./test.py \
 python ./tools/evaluate.py -r <the path of raw_results.json> --gpus <GPU_ID>
 ```
 
-## TODO
-- [ ] Release the code of evaluation in Issac Gym 
-- [ ] Release the code of AB-TTA
-- [x] Release the training code of DGTR
-- [x] Release the inference code of DGTR
+## Visualization
+```
+python ./vis/visualize_results.py -r <the path of matched_results.json> -s -o <num>
+```
+
 
 ## Acknowledgements
 
@@ -143,3 +143,8 @@ Please cite it if you find this work useful.
 ```
 
 
+CUDA_VISIBLE_DEVICES="4" python train.py \
+--train_cfg config/dgtr.yaml \
+-r \
+-c Experiments/test/epoch15_minus_loss_-21.8473_.pth \
+--override assignments \"static\" data.train.assignment \"Experiments/test/assignment_epoch_15.json\"

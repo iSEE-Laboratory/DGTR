@@ -109,7 +109,7 @@ model:
       rotation: 10.0
       hand_chamfer: 1.0
       distance: 0.0
-      obj_penetration: 0.0
+      obj_penetration: 50.0
       self_penetration: 10.0
 
   device: *device
