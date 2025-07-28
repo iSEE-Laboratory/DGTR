@@ -141,10 +141,3 @@ Please cite it if you find this work useful.
  year = {2024}
  }
 ```
-
-
-CUDA_VISIBLE_DEVICES="4" python train.py \
---train_cfg config/dgtr.yaml \
--r \
--c Experiments/test/epoch15_minus_loss_-21.8473_.pth \
---override assignments \"static\" data.train.assignment \"Experiments/test/assignment_epoch_15.json\"
