@@ -361,7 +361,7 @@ if __name__ == "__main__":
     visualizer = Visualizer(
         shuffle=args.shuffle,
         obj_mesh_root="/home/xuguohao/kwokho/DGTR_base/data/DexGraspNet/meshdata",
-        mjcf_path="/home/xuguohao/kwokho/DGTR_base/data/mjcf/shadow_hand_wrist_free.xml",
+        mjcf_path="/home/xuguohao/kwokho/DGTR_base/data/mjcf/shadow_hand.xml",
         mesh_path="/home/xuguohao/kwokho/DGTR_base/data/mjcf/meshes",
         contact_points_path="/home/xuguohao/kwokho/DGTR_base/data/mjcf/contact_points.json",
         penetration_points_path="/home/xuguohao/kwokho/DGTR_base/data/mjcf/penetration_points.json",
